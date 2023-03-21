@@ -1,0 +1,51 @@
+td {
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.matrix {
+    margin: auto;
+}
+
+.matrix td {
+    margin: auto;
+}
+
+.modos {
+    background: linear-gradient(90deg, rgba(187,134,134,1) 0%, rgba(121,59,129,1) 100%);
+}
+
+.maior {
+    background: linear-gradient(90deg, rgba(213,31,31,1) 0%, rgba(224,119,19,1) 100%);
+}
+
+.menor {
+    background: linear-gradient(90deg, rgba(54,51,213,1) 0%, rgba(39,154,224,1) 100%);
+}
+
+.borda td {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.btn {
+  color: black;
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 70px;
+  word-break: break-word;
+  border: 0;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<title> Campos Harmônicos </title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<script src="script.js"> </script> 
+
+</head>
+
+<body style="background-color: lightgray;">
+	
+	<h1 style="text-align: center;"> Campos Hârmonicos / Modos Gregos </h1>
+	<table width="700" class="matrix">
+		<tr><td colspan="13"><div id="ret_tom2"><h3>Escolha uma Tônica</h3></div></td></tr>
+		<tr>
+			<td><input type="button" value="C" onclick="envia_tom('C');" class="btn" style="background: #aa0000"/></td>
+			<td><input type="button" value="Db" onclick="envia_tom('Db');" class="btn" style="background: #aa3000" /></td>
+			<td><input type="button" value="D" onclick="envia_tom('D');" class="btn" style="background: #d46103"/></td>
+			<td><input type="button" value="Eb" onclick="envia_tom('Eb');" class="btn" style="background: #aa8200"/></td>
+			<td><input type="button" value="E" onclick="envia_tom('E');" class="btn" style="background: #dee203"/></td>
+			<td><input type="button" value="F" onclick="envia_tom('F');" class="btn" style="background: #7ae203"/></td>
+			<td><input type="button" value="Gb" onclick="envia_tom('Gb');" class="btn" style="background: #06d881"/></td>
+			<td><input type="button" value="G" onclick="envia_tom('G');"  class="btn" style="background: #06cad8"/></td>
+			<td><input type="button" value="Ab" onclick="envia_tom('Ab');" class="btn" style="background: #0673d8"/></td>
+			<td><input type="button" value="A" onclick="envia_tom('A');" class="btn" style="background: #060ad8"/></td>
+			<td><input type="button" value="Bb" onclick="envia_tom('Bb');" class="btn" style="background: #6106d8"/></td>
+			<td><input type="button" value="B" onclick="envia_tom('B');"  class="btn" style="background: #bf06d8"/></td>
+		</tr>
+	</table>
+	<br>
+
+	<div name="resultado" id="resultado"></div>
+	<p style="text-align: center; font-size: 14px;"> Escalas Maiores com Fundo VERMELHO<br> Escalas Menores com Fundo AZUL <br> Acorde meio-diminuto (Prima, Terça Menor, Quinta Diminuta, Setima Menor)</p>
+<input type="hidden" id="ret_tom" />
+</body>
+</html>
