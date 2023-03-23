@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+.jogador {
+    width: 100%;
+    background-color: rgb(169, 169, 169);
+}
+
+.jogador, tr, td {
+    border-bottom: 1px solid black;
+    border-top: none;
+    border-right: 1px solid black;
+    border-left: none;
+}
+
+body {
+    background-color: rgb(126, 153, 128);
+    font-family: "Lato", sans-serif;
+}
+
+.cabecalho {
+    width: 100%;
+    background-color: rgb(169, 169, 169);
+}
+
+table, tr, td {
+    text-align: center;
+    font-size: 25px;
+    border-top: none;
+    border-left: none;
+}
+
+
+.g1{
+    background-color: rgb(130, 48, 150);
+}
+
+.g2{
+    background-color: rgb(184, 19, 60);
+}
+
+.g3{
+    background-color: rgb(204, 114, 40);
+}
+
+.g11{
+    background-color: #56b0b3;
+}
+.g22{
+    background-color: #c1c27d;
+}
+
+.g4 {
+    background-color: green;
+}
