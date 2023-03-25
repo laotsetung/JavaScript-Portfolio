@@ -5,7 +5,7 @@ Uso:
   <li> Clicar no botão "Browse..." e escolher o HandHistory na pasta do PokerStar </li>
   </ul>
   
- Este aplicativo então desenha uma tabela de Range e marca em VERMELHO CLARO quais foram as mãos que sairam para você nesse jogo.<br>
+ Este aplicativo então desenha uma tabela de Range e marca em VERMELHO CLARO quais foram as mãos que sairam para você nesse torneio.<br>
  Em baixo ela apresenta o HandHistory na integra<br>
  
  GG GL HF
