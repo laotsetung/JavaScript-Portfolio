@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Análise de Jogos do PokerStar</title>
+</head>
+<style type="text/css">
+	main{
+		width: 100;
+		text-align: center;
+	}
+
+	body{
+		margin: 0px;
+		border: 0px;
+		background-color: #d2ac8c;
+		display: flex;
+		justify-content: center;
+	}
+	td {
+		background-color: rgb(196, 196, 196);
+		padding: 0px;
+		margin: 0px;
+		 /* border: 1px solid black; */
+		 vertical-align: top;
+	}
+
+	.normal {
+		text-align: center;
+	}
+
+	.s {
+		background-color: rgb(84, 165, 84);
+		text-align: center;
+	}
+
+	.pair {
+		background-color: rgb(77, 93, 218);
+		text-align: center;
+	}
+
+	.Jogo_saiu{
+		background-color: #ff7777;
+		text-align: center;
+	}
+
+	.centro {
+		background-color: gold;
+		text-align: center;
+	}
+
+	.final {
+		border-style: solid;
+		border-color: black;
+		font-size: 22px;
+		width: 400px;
+	}
+
+	.show3C {
+		display: block;
+		justify-content: left;
+		border: 3px solid black;
+		font-size: 18px;
+	}
+
+
+</style>
+
+<body>
+
+<main>
+	<h1> Análise de Jogos do PokerStar: </h1>
+	<h3>Digite seu NICK no PokerStar: <input type="text" id="nome" onblur="verificaNome();"> </h3>
+	<h3>..e depois escolha um arquivo de histórico (HandHistory) do PokerStar: <input type="file" id="file-selector" disabled label="ESCOLHER ARQUIVO"></h3>
+	<br><br>
+
+<table >
+	<tr><td> <div id="show"> </div> </td>
+	<td><div id="show2"> </div></td>
+	<td></td>
+	<td>
+
+<script type="text/javascript">
+	
+	function verificaNome(){
+		if (document.getElementById('nome').value != ''){
+			document.getElementById('file-selector').disabled = false;
+		}else{
+			document.getElementById('file-selector').disabled = true;
+		}
+	}
+
+	
+	let a = "";
+	let b = "";
+	let x1;
+	let y1;
+	let zx = 4;
+	let zy = 4;
+	let a1;
+	let b1;
+	let topRange = 0;
+	let midRange = 0;
+	let lowRange = 0;
+	let flag = true;
+	let file;
+	let reader = new FileReader();
+	
+
+	reader.onload = function(progressEvent){ //ABRE ARQUIVO, COMEÇO ALGORITMO
+		let maos = 0;
+		let nome = document.getElementById('nome').value;
+
+			//console.log(file);
+			for (var x = 0 ; x < 13; x++){
+				for (var y = 0 ; y < 13; y++){
+					range[x][y] = 0;
+				}
+			}
+			topRange=0;
+			midRange=0;
+			lowRange=0;
+			maos=0;
+
+		    var lines = this.result.split('\n'); //LE ARQUIVO
+			document.getElementById('show3').innerText = 'ARQUIVO HAND_HISTORY: \n\n';
+			document.getElementById('show3').innerText += this.result;
+
+		    f_num = 0; //inicia variavel, 0, começo... antes do loop
+
+		    for(var line = 0; line < lines.length; line++){ //ABRE AS LINHAS DO ARQUIVO
+				
+		    	linha = lines[line]; //LINHAS.
+
+		    	if (linha.indexOf("Dealt to "+nome) == 0){
+		    		maos += 1;
+		    		a = linha.slice(21,23);
+		    		b = linha.slice(24,26);
+		    		
+		    		if (a.slice(1,2) == b.slice(1,2)){
+		    			a1 = traduzCartasPMatrix(a.slice(0,1));
+		    			b1 = traduzCartasPMatrix(b.slice(0,1));
+		    			if(a1>b1){
+		    				range[b1][a1] = range[b1][a1] + 1;
+		    			}else{
+							range[a1][b1] = range[a1][b1] + 1;
+		    			}
+		    			
+		    		}else{
+		    			a1 = traduzCartasPMatrix(a.slice(0,1));
+		    			b1 = traduzCartasPMatrix(b.slice(0,1));
+
+		    			if(a1>b1){
+		    				range[a1][b1] = range[a1][b1] + 1;
+		    			}else{
+							range[b1][a1] = range[b1][a1] + 1;
+		    			}
+		    		}
+
+		    		if (a1 < 4 && b1 < 4){
+		    			topRange++;
+		    		}else if( (a1 < 8) && ( b1 < 8) ){
+		    			midRange++;
+		    		}else{
+		    			if (a1 == 0 || b1 == 0){
+		    				midRange++;
+		    			}else{
+		    				lowRange++;
+		    			}
+		    		}
+		    	}
+
+			}
+
+			if(maos == 0){
+				for (let a = 0; a < 20; a++){
+					document.getElementById('show2').innerHTML += '<b>Nick: '+nome+' NÃO ENCONTRADO NO HAND HISTORY!!!</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>';
+				}
+			}else{
+				desenha(maos);
+			}
+		}
+
+
+function traduzCartasPMatrix(x) {
+		if (x == "A"){
+			return(0);
+		}else if(x == "K"){
+			return(1);
+		}else if(x == "Q"){
+			return(2);
+		}else if(x == "J"){
+			return(3);
+		}else if(x == "T"){
+			return(4);
+		}else if(x == 9){
+			return(5);
+		}else if(x == 8){
+			return(6);
+		}else if(x == 7){
+			return(7);
+		}else if(x == 6){
+			return(8);
+		}else if(x == 5){
+			return(9);
+		}else if(x == 4){
+			return(10);
+		}else if(x == 3){
+			return(11);
+		}else {
+			return(12);
+		}
+}
+
+function traduzCartas(x){
+			if (x == 0){
+				return("A");
+			}else if(x == 1){
+				return("K");
+			}else if(x == 2){
+				return("Q");
+			}else if(x == 3){
+				return("J");
+			}else if(x == 4){
+				return("T");
+			}else if(x == 5){
+				return(9);
+			}else if(x == 6){
+				return(8);
+			}else if(x == 7){
+				return(7);
+			}else if(x == 8){
+				return(6);
+			}else if(x == 9){
+				return(5);
+			}else if(x == 10){
+				return(4);
+			}else if(x == 11){
+				return(3);
+			}else if(x == 12){
+				return(2);
+			}
+}	
+
+let range = new Array(12);
+
+	for (var x = 0 ; x < 13; x++){
+		range[x] = new Array(12);
+	}
+
+	for (var x = 0 ; x < 13; x++){
+		for (var y = 0 ; y < 13; y++){
+			range[x][y] = 0;
+		}
+	}
+
+function desenha(maos){
+
+	let txt = "<table><tr><td><table style='border: 3px solid black;'>";
+		for (var x = 0 ; x < 13; x++){
+			txt += "<tr>";
+
+			for (var y = 0 ; y < 13; y++){
+
+				x1 = traduzCartas(x);
+				y1 = traduzCartas(y);
+
+
+				if( (x == 0 && y > 0) || (x == 1 && y > 1) || (x == 2 && y > 2) || (x == 3 && y > 3) || (x == 4 && y > 4) ||
+					(x == 5 && y > 5) || (x == 6 && y > 6) || (x == 7 && y > 7) || (x == 8 && y > 8) || (x == 9 && y > 9) ||
+					(x == 10 && y > 10) || (x == 11 && y > 11) || (x == 12 && y > 12)){ //NAIPADO
+
+					if (range[x][y] > 0) {
+						txt += "<td width=55 height=55 class='Jogo_saiu'>"+x1+","+y1+"<br>"+ range[x][y] +"</td>";
+					} else {
+						txt += "<td width=55 height=55 class='s'>"+x1+","+y1+"<br>"+ range[x][y] +"</td>";
+					}
+
+				}else if(x == y){ //PAR
+
+					if (x == 6 && y == 6){
+						txt += "<td width=55 height=55 class='centro'>"+x1+","+y1+"<br>"+ range[x][y] +"</td>";
+					}else{
+						if (range[x][y] > 0) {
+							txt += "<td width=55 height=55 class='Jogo_saiu'>"+x1+","+y1+"<br>"+ range[x][y] +"</td>";
+						}else{
+							txt += "<td width=55 height=55 class='pair'>"+x1+","+y1+"<br>"+ range[x][y] +"</td>";
+						}
+					}
+
+				}else{ //OFF
+
+					if (range[x][y] > 0) {
+						txt += "<td width=55 height=55 class='Jogo_saiu'>"+y1+","+x1+"<br>"+ range[x][y] +"</td>";
+					}else{
+						txt += "<td width=55 height=55 class='normal'>"+y1+","+x1+"<br>"+ range[x][y] +"</td>";
+					}
+				}
+
+
+				
+				//range = [x][y] = 0;
+			}
+			txt += "</tr>";
+		}
+
+		txt += "</table></td>";
+
+		document.getElementById("show").innerHTML = txt;
+
+		txt = "<td><table class='final' valign=top><tr><td>TOTAL DE MAOS: </td><td class='centro'>" + maos + "</td></tr>";
+
+		txt += "<tr><td style='background-color: orange'>Top Range </td><td style='background-color: orange'>" + topRange + " - " + ((topRange *100) / maos).toFixed(2) + "%</td></tr>";
+		txt += "<tr><td style='background-color: #aa00aa'>Mid range </td><td style='background-color: #aa00aa'>" + midRange + " - " + ((midRange*100) / maos).toFixed(2) + "%<td></tr>";
+		txt += "<tr><td>Low range </td><td>" + lowRange + " - " + ((lowRange*100) / maos).toFixed(2) + "%<td></tr>";
+
+		txt += "<tr><td><br></td><td /></tr>";
+
+		txt += "<tr><td colspan='2'> LEGENDA </td></tr>";
+
+		txt += "<tr><td class='s'> </td><td>SUITED(Naipado)</td><tr>";
+		txt += "<tr><td > </td><td>OFF SUITED</td><tr>";
+		txt += "<tr><td class='pair'></td><td> PARES </td></tr>";
+		txt += "<tr><td class='Jogo_saiu'></td><td> Mãos que sairam </td></tr>";
+		txt += "<tr><td class='centro'></td><td>88=Metade da Matrix</td></tr>";
+
+		txt +="<tr><td><br></td><td></td></tr>";
+		txt +="<tr><td colspan=2>*O numero embaixo de cada combinação<br> é a quantidade de vezes que esse jogo saiu </td><td /></tr>";
+
+		txt += "</table></td></tr></table>";
+
+		document.getElementById("show2").innerHTML = txt;
+}
+
+	document.getElementById('file-selector').onchange = function(){
+	
+file = document.getElementById("file-selector").files[0];
+
+	if(file){
+
+		reader.readAsText(file);
+		document.getElementById("file-selector").value = null;
+	}
+}
+
+
+
+</script>
+
+</td></tr><tr>
+<td colspan="2"><div id="show3" class="show3C"> </div></td></tr></table>
+
+</main>
+
+</body>
+</html>

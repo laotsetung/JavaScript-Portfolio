@@ -1,0 +1,1197 @@
+﻿PokerStars Hand #242206845274: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:24:43 ET
+Table '3556590243 1' 3-max Seat #1 is the button
+Seat 1: LuanW2 (500 in chips) 
+Seat 2: laotsetung (500 in chips) 
+Seat 3: qwertzu12345678 (500 in chips) 
+laotsetung: posts small blind 10
+qwertzu12345678: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Js Qs]
+LuanW2: calls 20
+laotsetung: raises 20 to 40
+qwertzu12345678: calls 20
+LuanW2: calls 20
+*** FLOP *** [9c 6h Jc]
+laotsetung: checks 
+qwertzu12345678: checks 
+LuanW2: checks 
+*** TURN *** [9c 6h Jc] [3d]
+laotsetung: bets 44
+qwertzu12345678: folds 
+LuanW2: calls 44
+*** RIVER *** [9c 6h Jc 3d] [2s]
+laotsetung: bets 66
+LuanW2: calls 66
+*** SHOW DOWN ***
+laotsetung: shows [Js Qs] (a pair of Jacks)
+LuanW2: mucks hand 
+laotsetung collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [9c 6h Jc 3d 2s]
+Seat 1: LuanW2 (button) mucked [6c Qc]
+Seat 2: laotsetung (small blind) showed [Js Qs] and won (340) with a pair of Jacks
+Seat 3: qwertzu12345678 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242206856124: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:25:12 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 1: LuanW2 (350 in chips) 
+Seat 2: laotsetung (690 in chips) 
+Seat 3: qwertzu12345678 (460 in chips) 
+qwertzu12345678: posts small blind 10
+LuanW2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [9d Jc]
+laotsetung: calls 20
+qwertzu12345678: folds 
+LuanW2: checks 
+*** FLOP *** [Jd Qh 9h]
+LuanW2: checks 
+laotsetung: bets 20
+LuanW2: calls 20
+*** TURN *** [Jd Qh 9h] [2h]
+LuanW2: checks 
+laotsetung: bets 40
+LuanW2: calls 40
+*** RIVER *** [Jd Qh 9h 2h] [6d]
+LuanW2: checks 
+laotsetung: bets 80
+LuanW2: folds 
+Uncalled bet (80) returned to laotsetung
+laotsetung collected 170 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Jd Qh 9h 2h 6d]
+Seat 1: LuanW2 (big blind) folded on the River
+Seat 2: laotsetung (button) collected (170)
+Seat 3: qwertzu12345678 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242206866510: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:25:40 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 1: LuanW2 (270 in chips) 
+Seat 2: laotsetung (780 in chips) 
+Seat 3: qwertzu12345678 (450 in chips) 
+LuanW2: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [4h 8s]
+qwertzu12345678: calls 20
+LuanW2: calls 10
+laotsetung: checks 
+*** FLOP *** [8d Ah Kh]
+LuanW2: checks 
+laotsetung: bets 20
+qwertzu12345678: calls 20
+LuanW2: folds 
+*** TURN *** [8d Ah Kh] [Ad]
+laotsetung: checks 
+qwertzu12345678: checks 
+*** RIVER *** [8d Ah Kh Ad] [2c]
+laotsetung: checks 
+qwertzu12345678: bets 100
+laotsetung: folds [8s]
+Uncalled bet (100) returned to qwertzu12345678
+qwertzu12345678 collected 100 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8d Ah Kh Ad 2c]
+Seat 1: LuanW2 (small blind) folded on the Flop
+Seat 2: laotsetung (big blind) folded on the River
+Seat 3: qwertzu12345678 (button) collected (100)
+
+
+
+PokerStars Hand #242206876893: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:26:07 ET
+Table '3556590243 1' 3-max Seat #1 is the button
+Seat 1: LuanW2 (250 in chips) 
+Seat 2: laotsetung (740 in chips) 
+Seat 3: qwertzu12345678 (510 in chips) 
+laotsetung: posts small blind 10
+qwertzu12345678: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [2d 4d]
+LuanW2: calls 20
+laotsetung: calls 10
+qwertzu12345678: checks 
+*** FLOP *** [6s 9h 2h]
+laotsetung: checks 
+qwertzu12345678: checks 
+LuanW2: checks 
+*** TURN *** [6s 9h 2h] [2s]
+laotsetung: bets 20
+qwertzu12345678: raises 20 to 40
+LuanW2: folds 
+laotsetung: calls 20
+*** RIVER *** [6s 9h 2h 2s] [Js]
+laotsetung: bets 60
+qwertzu12345678: calls 60
+*** SHOW DOWN ***
+laotsetung: shows [2d 4d] (three of a kind, Deuces)
+qwertzu12345678: shows [8h 2c] (three of a kind, Deuces)
+laotsetung collected 130 from pot
+qwertzu12345678 collected 130 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [6s 9h 2h 2s Js]
+Seat 1: LuanW2 (button) folded on the Turn
+Seat 2: laotsetung (small blind) showed [2d 4d] and won (130) with three of a kind, Deuces
+Seat 3: qwertzu12345678 (big blind) showed [8h 2c] and won (130) with three of a kind, Deuces
+
+
+
+PokerStars Hand #242206890230: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:26:43 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 1: LuanW2 (230 in chips) 
+Seat 2: laotsetung (750 in chips) 
+Seat 3: qwertzu12345678 (520 in chips) 
+qwertzu12345678: posts small blind 10
+LuanW2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Qs 2d]
+laotsetung: folds 
+qwertzu12345678: calls 10
+LuanW2: checks 
+*** FLOP *** [Th 6s 3h]
+qwertzu12345678: bets 20
+LuanW2: calls 20
+*** TURN *** [Th 6s 3h] [9c]
+qwertzu12345678: bets 20
+LuanW2: calls 20
+*** RIVER *** [Th 6s 3h 9c] [6d]
+qwertzu12345678: bets 60
+LuanW2: calls 60
+*** SHOW DOWN ***
+qwertzu12345678: shows [2h Jh] (a pair of Sixes)
+LuanW2: shows [9h Qc] (two pair, Nines and Sixes)
+LuanW2 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th 6s 3h 9c 6d]
+Seat 1: LuanW2 (big blind) showed [9h Qc] and won (240) with two pair, Nines and Sixes
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: qwertzu12345678 (small blind) showed [2h Jh] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #242206898168: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:27:04 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 1: LuanW2 (350 in chips) 
+Seat 2: laotsetung (750 in chips) 
+Seat 3: qwertzu12345678 (400 in chips) 
+LuanW2: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Jd 9h]
+qwertzu12345678: folds 
+LuanW2: calls 10
+laotsetung: raises 20 to 40
+LuanW2: calls 20
+*** FLOP *** [3c 6s 4d]
+LuanW2: bets 20
+laotsetung: folds 
+Uncalled bet (20) returned to LuanW2
+LuanW2 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c 6s 4d]
+Seat 1: LuanW2 (small blind) collected (80)
+Seat 2: laotsetung (big blind) folded on the Flop
+Seat 3: qwertzu12345678 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242206903496: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/03 14:27:18 ET
+Table '3556590243 1' 3-max Seat #1 is the button
+Seat 1: LuanW2 (390 in chips) 
+Seat 2: laotsetung (710 in chips) 
+Seat 3: qwertzu12345678 (400 in chips) 
+laotsetung: posts small blind 10
+qwertzu12345678: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [7s 6d]
+LuanW2: calls 20
+laotsetung: calls 10
+qwertzu12345678: checks 
+*** FLOP *** [Jd 3c Ks]
+laotsetung: checks 
+qwertzu12345678: bets 20
+LuanW2: calls 20
+laotsetung: folds 
+*** TURN *** [Jd 3c Ks] [2d]
+qwertzu12345678: bets 100
+LuanW2: calls 100
+*** RIVER *** [Jd 3c Ks 2d] [3d]
+qwertzu12345678: bets 260 and is all-in
+LuanW2: calls 250 and is all-in
+Uncalled bet (10) returned to qwertzu12345678
+*** SHOW DOWN ***
+qwertzu12345678: shows [Kd 9h] (two pair, Kings and Threes)
+LuanW2: shows [5d Kh] (two pair, Kings and Threes)
+qwertzu12345678 collected 400 from pot
+LuanW2 collected 400 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Jd 3c Ks 2d 3d]
+Seat 1: LuanW2 (button) showed [5d Kh] and won (400) with two pair, Kings and Threes
+Seat 2: laotsetung (small blind) folded on the Flop
+Seat 3: qwertzu12345678 (big blind) showed [Kd 9h] and won (400) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #242206914911: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:27:48 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 1: LuanW2 (400 in chips) 
+Seat 2: laotsetung (690 in chips) 
+Seat 3: qwertzu12345678 (410 in chips) 
+qwertzu12345678: posts small blind 15
+LuanW2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Kd Ks]
+laotsetung: raises 30 to 60
+qwertzu12345678: calls 45
+LuanW2: calls 30
+*** FLOP *** [8s 3h 2c]
+qwertzu12345678: bets 90
+LuanW2: folds 
+laotsetung: raises 90 to 180
+qwertzu12345678: folds 
+Uncalled bet (90) returned to laotsetung
+laotsetung collected 360 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8s 3h 2c]
+Seat 1: LuanW2 (big blind) folded on the Flop
+Seat 2: laotsetung (button) collected (360)
+Seat 3: qwertzu12345678 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242206927333: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:28:21 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 1: LuanW2 (340 in chips) 
+Seat 2: laotsetung (900 in chips) 
+Seat 3: qwertzu12345678 (260 in chips) 
+LuanW2: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [5c 4c]
+qwertzu12345678: calls 30
+LuanW2: calls 15
+laotsetung: checks 
+*** FLOP *** [2c 4h 9c]
+LuanW2: bets 30
+laotsetung: calls 30
+qwertzu12345678: folds 
+*** TURN *** [2c 4h 9c] [Jh]
+LuanW2: bets 30
+laotsetung: calls 30
+*** RIVER *** [2c 4h 9c Jh] [Kd]
+LuanW2: checks 
+laotsetung: checks 
+*** SHOW DOWN ***
+LuanW2: shows [Ac 5h] (high card Ace)
+laotsetung: shows [5c 4c] (a pair of Fours)
+laotsetung collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2c 4h 9c Jh Kd]
+Seat 1: LuanW2 (small blind) showed [Ac 5h] and lost with high card Ace
+Seat 2: laotsetung (big blind) showed [5c 4c] and won (210) with a pair of Fours
+Seat 3: qwertzu12345678 (button) folded on the Flop
+
+
+
+PokerStars Hand #242206937000: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:28:47 ET
+Table '3556590243 1' 3-max Seat #1 is the button
+Seat 1: LuanW2 (250 in chips) 
+Seat 2: laotsetung (1020 in chips) 
+Seat 3: qwertzu12345678 (230 in chips) 
+laotsetung: posts small blind 15
+qwertzu12345678: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [5h Td]
+LuanW2: calls 30
+laotsetung: folds 
+qwertzu12345678: checks 
+*** FLOP *** [Qh 2s 9h]
+qwertzu12345678: checks 
+LuanW2: bets 30
+qwertzu12345678: calls 30
+*** TURN *** [Qh 2s 9h] [Ac]
+qwertzu12345678: bets 135
+LuanW2: folds 
+Uncalled bet (135) returned to qwertzu12345678
+qwertzu12345678 collected 135 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Qh 2s 9h Ac]
+Seat 1: LuanW2 (button) folded on the Turn
+Seat 2: laotsetung (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) collected (135)
+
+
+
+PokerStars Hand #242206944191: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:29:06 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 1: LuanW2 (190 in chips) 
+Seat 2: laotsetung (1005 in chips) 
+Seat 3: qwertzu12345678 (305 in chips) 
+qwertzu12345678: posts small blind 15
+LuanW2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [8c Jc]
+laotsetung: calls 30
+qwertzu12345678: calls 15
+LuanW2: checks 
+*** FLOP *** [2s 5c 5d]
+qwertzu12345678: checks 
+LuanW2: checks 
+laotsetung: checks 
+*** TURN *** [2s 5c 5d] [3s]
+qwertzu12345678: checks 
+LuanW2: checks 
+laotsetung: checks 
+*** RIVER *** [2s 5c 5d 3s] [Qd]
+qwertzu12345678: bets 45
+LuanW2: folds 
+laotsetung: folds 
+Uncalled bet (45) returned to qwertzu12345678
+qwertzu12345678 collected 90 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2s 5c 5d 3s Qd]
+Seat 1: LuanW2 (big blind) folded on the River
+Seat 2: laotsetung (button) folded on the River
+Seat 3: qwertzu12345678 (small blind) collected (90)
+
+
+
+PokerStars Hand #242206955419: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:29:36 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 1: LuanW2 (160 in chips) 
+Seat 2: laotsetung (975 in chips) 
+Seat 3: qwertzu12345678 (365 in chips) 
+LuanW2: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [2h 5h]
+qwertzu12345678: calls 30
+LuanW2: calls 15
+laotsetung: checks 
+*** FLOP *** [3c As 9d]
+LuanW2: checks 
+laotsetung: checks 
+qwertzu12345678: checks 
+*** TURN *** [3c As 9d] [6d]
+LuanW2: checks 
+laotsetung: checks 
+qwertzu12345678: bets 45
+LuanW2: folds 
+laotsetung: folds 
+Uncalled bet (45) returned to qwertzu12345678
+qwertzu12345678 collected 90 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c As 9d 6d]
+Seat 1: LuanW2 (small blind) folded on the Turn
+Seat 2: laotsetung (big blind) folded on the Turn
+Seat 3: qwertzu12345678 (button) collected (90)
+
+
+
+PokerStars Hand #242206963652: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:29:58 ET
+Table '3556590243 1' 3-max Seat #1 is the button
+Seat 1: LuanW2 (130 in chips) 
+Seat 2: laotsetung (945 in chips) 
+Seat 3: qwertzu12345678 (425 in chips) 
+laotsetung: posts small blind 15
+qwertzu12345678: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [3c 4d]
+LuanW2: calls 30
+laotsetung: folds 
+qwertzu12345678: checks 
+*** FLOP *** [7s Jd 7c]
+qwertzu12345678: checks 
+LuanW2: checks 
+*** TURN *** [7s Jd 7c] [8h]
+qwertzu12345678: checks 
+LuanW2: checks 
+*** RIVER *** [7s Jd 7c 8h] [3s]
+qwertzu12345678: checks 
+LuanW2: bets 30
+qwertzu12345678: calls 30
+*** SHOW DOWN ***
+LuanW2: shows [9c Th] (a straight, Seven to Jack)
+qwertzu12345678: mucks hand 
+LuanW2 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7s Jd 7c 8h 3s]
+Seat 1: LuanW2 (button) showed [9c Th] and won (135) with a straight, Seven to Jack
+Seat 2: laotsetung (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) mucked [5h 3d]
+
+
+
+PokerStars Hand #242206971447: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:30:17 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 1: LuanW2 (205 in chips) 
+Seat 2: laotsetung (930 in chips) 
+Seat 3: qwertzu12345678 (365 in chips) 
+qwertzu12345678: posts small blind 15
+LuanW2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [8d 7h]
+laotsetung: folds 
+qwertzu12345678: calls 15
+LuanW2: checks 
+*** FLOP *** [7s 2s Ac]
+qwertzu12345678: checks 
+LuanW2: checks 
+*** TURN *** [7s 2s Ac] [4d]
+qwertzu12345678: bets 30
+LuanW2: calls 30
+*** RIVER *** [7s 2s Ac 4d] [Ah]
+qwertzu12345678: bets 120
+LuanW2: folds 
+Uncalled bet (120) returned to qwertzu12345678
+qwertzu12345678 collected 120 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 2s Ac 4d Ah]
+Seat 1: LuanW2 (big blind) folded on the River
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: qwertzu12345678 (small blind) collected (120)
+
+
+
+PokerStars Hand #242206978469: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/03 14:30:36 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 1: LuanW2 (145 in chips) 
+Seat 2: laotsetung (930 in chips) 
+Seat 3: qwertzu12345678 (425 in chips) 
+LuanW2: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Ac 6s]
+qwertzu12345678: calls 30
+LuanW2: calls 15
+laotsetung: raises 30 to 60
+qwertzu12345678: calls 30
+LuanW2: calls 30
+*** FLOP *** [9c Qd 8c]
+LuanW2: checks 
+laotsetung: bets 60
+qwertzu12345678: folds 
+LuanW2: folds 
+Uncalled bet (60) returned to laotsetung
+laotsetung collected 180 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9c Qd 8c]
+Seat 1: LuanW2 (small blind) folded on the Flop
+Seat 2: laotsetung (big blind) collected (180)
+Seat 3: qwertzu12345678 (button) folded on the Flop
+
+
+
+PokerStars Hand #242206987893: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:31:01 ET
+Table '3556590243 1' 3-max Seat #1 is the button
+Seat 1: LuanW2 (85 in chips) 
+Seat 2: laotsetung (1050 in chips) 
+Seat 3: qwertzu12345678 (365 in chips) 
+laotsetung: posts small blind 20
+qwertzu12345678: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Ts 3d]
+LuanW2: folds 
+laotsetung: folds 
+Uncalled bet (20) returned to qwertzu12345678
+qwertzu12345678 collected 40 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: LuanW2 (button) folded before Flop (didn't bet)
+Seat 2: laotsetung (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) collected (40)
+
+
+
+PokerStars Hand #242206990665: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:31:08 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 1: LuanW2 (85 in chips) 
+Seat 2: laotsetung (1030 in chips) 
+Seat 3: qwertzu12345678 (385 in chips) 
+qwertzu12345678: posts small blind 20
+LuanW2: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [5c 3s]
+laotsetung: folds 
+qwertzu12345678: calls 20
+LuanW2: checks 
+*** FLOP *** [2c Jh Ac]
+qwertzu12345678: checks 
+LuanW2: checks 
+*** TURN *** [2c Jh Ac] [Kh]
+qwertzu12345678: bets 40
+LuanW2: calls 40
+*** RIVER *** [2c Jh Ac Kh] [Ts]
+qwertzu12345678: bets 160
+LuanW2: calls 5 and is all-in
+Uncalled bet (155) returned to qwertzu12345678
+*** SHOW DOWN ***
+qwertzu12345678: shows [Qc 8h] (a straight, Ten to Ace)
+LuanW2: shows [7s Kc] (a pair of Kings)
+qwertzu12345678 collected 170 from pot
+LuanW2 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [2c Jh Ac Kh Ts]
+Seat 1: LuanW2 (big blind) showed [7s Kc] and lost with a pair of Kings
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: qwertzu12345678 (small blind) showed [Qc 8h] and won (170) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #242207000633: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:31:34 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1030 in chips) 
+Seat 3: qwertzu12345678 (470 in chips) 
+qwertzu12345678: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [2s 6d]
+qwertzu12345678: folds 
+Uncalled bet (20) returned to laotsetung
+laotsetung collected 40 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: laotsetung (big blind) collected (40)
+Seat 3: qwertzu12345678 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242207002934: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:31:40 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1050 in chips) 
+Seat 3: qwertzu12345678 (450 in chips) 
+laotsetung: posts small blind 20
+qwertzu12345678: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Tc 8s]
+laotsetung: calls 20
+qwertzu12345678: checks 
+*** FLOP *** [7s 2s 5h]
+qwertzu12345678: bets 80
+laotsetung: folds 
+Uncalled bet (80) returned to qwertzu12345678
+qwertzu12345678 collected 80 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 2s 5h]
+Seat 2: laotsetung (button) (small blind) folded on the Flop
+Seat 3: qwertzu12345678 (big blind) collected (80)
+
+
+
+PokerStars Hand #242207008535: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:31:55 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1010 in chips) 
+Seat 3: qwertzu12345678 (490 in chips) 
+qwertzu12345678: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Kd 2c]
+qwertzu12345678: raises 40 to 80
+laotsetung: folds 
+Uncalled bet (40) returned to qwertzu12345678
+qwertzu12345678 collected 80 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: laotsetung (big blind) folded before Flop
+Seat 3: qwertzu12345678 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #242207011563: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:32:03 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (970 in chips) 
+Seat 3: qwertzu12345678 (530 in chips) 
+laotsetung: posts small blind 20
+qwertzu12345678: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [9c Qd]
+laotsetung: raises 40 to 80
+qwertzu12345678: folds 
+Uncalled bet (40) returned to laotsetung
+laotsetung collected 80 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: laotsetung (button) (small blind) collected (80)
+Seat 3: qwertzu12345678 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242207014774: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:32:11 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1010 in chips) 
+Seat 3: qwertzu12345678 (490 in chips) 
+qwertzu12345678: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Js Th]
+qwertzu12345678: calls 20
+laotsetung: raises 40 to 80
+qwertzu12345678: calls 40
+*** FLOP *** [Jh 5s 3c]
+laotsetung: bets 40
+qwertzu12345678: folds 
+Uncalled bet (40) returned to laotsetung
+laotsetung collected 160 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jh 5s 3c]
+Seat 2: laotsetung (big blind) collected (160)
+Seat 3: qwertzu12345678 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242207024362: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:32:36 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1090 in chips) 
+Seat 3: qwertzu12345678 (410 in chips) 
+laotsetung: posts small blind 20
+qwertzu12345678: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [5s 8h]
+laotsetung: folds 
+Uncalled bet (20) returned to qwertzu12345678
+qwertzu12345678 collected 40 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: laotsetung (button) (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) collected (40)
+
+
+
+PokerStars Hand #242207026191: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:32:41 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1070 in chips) 
+Seat 3: qwertzu12345678 (430 in chips) 
+qwertzu12345678: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [4c 7h]
+qwertzu12345678: calls 20
+laotsetung: checks 
+*** FLOP *** [Js Ad Qh]
+laotsetung: checks 
+qwertzu12345678: checks 
+*** TURN *** [Js Ad Qh] [9c]
+laotsetung: checks 
+qwertzu12345678: bets 40
+laotsetung: folds 
+Uncalled bet (40) returned to qwertzu12345678
+qwertzu12345678 collected 80 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js Ad Qh 9c]
+Seat 2: laotsetung (big blind) folded on the Turn
+Seat 3: qwertzu12345678 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #242207031891: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:32:56 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1030 in chips) 
+Seat 3: qwertzu12345678 (470 in chips) 
+laotsetung: posts small blind 20
+qwertzu12345678: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Ks 3c]
+laotsetung: calls 20
+qwertzu12345678: checks 
+*** FLOP *** [Kd 5s 3s]
+qwertzu12345678: bets 40
+laotsetung: raises 60 to 100
+qwertzu12345678: folds 
+Uncalled bet (60) returned to laotsetung
+laotsetung collected 160 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 5s 3s]
+Seat 2: laotsetung (button) (small blind) collected (160)
+Seat 3: qwertzu12345678 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #242207041185: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:33:20 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1110 in chips) 
+Seat 3: qwertzu12345678 (390 in chips) 
+qwertzu12345678: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [3c Jc]
+qwertzu12345678: folds 
+Uncalled bet (20) returned to laotsetung
+laotsetung collected 40 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: laotsetung (big blind) collected (40)
+Seat 3: qwertzu12345678 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242207043106: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:33:25 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1130 in chips) 
+Seat 3: qwertzu12345678 (370 in chips) 
+laotsetung: posts small blind 20
+qwertzu12345678: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Jd Kd]
+laotsetung: raises 60 to 100
+qwertzu12345678: folds 
+Uncalled bet (60) returned to laotsetung
+laotsetung collected 80 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: laotsetung (button) (small blind) collected (80)
+Seat 3: qwertzu12345678 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242207046101: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/03 14:33:33 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1170 in chips) 
+Seat 3: qwertzu12345678 (330 in chips) 
+qwertzu12345678: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [9c Jd]
+qwertzu12345678: calls 20
+laotsetung: checks 
+*** FLOP *** [2s 6h 2d]
+laotsetung: checks 
+qwertzu12345678: checks 
+*** TURN *** [2s 6h 2d] [3d]
+laotsetung: checks 
+qwertzu12345678: checks 
+*** RIVER *** [2s 6h 2d 3d] [Ac]
+laotsetung: checks 
+qwertzu12345678: bets 40
+laotsetung: calls 40
+*** SHOW DOWN ***
+qwertzu12345678: shows [3s Ah] (two pair, Aces and Threes)
+laotsetung: mucks hand 
+qwertzu12345678 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 6h 2d 3d Ac]
+Seat 2: laotsetung (big blind) mucked [9c Jd]
+Seat 3: qwertzu12345678 (button) (small blind) showed [3s Ah] and won (160) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #242207057547: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:03 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1090 in chips) 
+Seat 3: qwertzu12345678 (410 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [9d Kc]
+laotsetung: raises 60 to 120
+qwertzu12345678: raises 60 to 180
+laotsetung: calls 60
+*** FLOP *** [2c 7h 6d]
+qwertzu12345678: bets 180
+laotsetung: folds 
+Uncalled bet (180) returned to qwertzu12345678
+qwertzu12345678 collected 360 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2c 7h 6d]
+Seat 2: laotsetung (button) (small blind) folded on the Flop
+Seat 3: qwertzu12345678 (big blind) collected (360)
+
+
+
+PokerStars Hand #242207062113: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:15 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (910 in chips) 
+Seat 3: qwertzu12345678 (590 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Jc 7d]
+qwertzu12345678: raises 60 to 120
+laotsetung: calls 60
+*** FLOP *** [Ac 3c 3s]
+laotsetung: checks 
+qwertzu12345678: bets 470 and is all-in
+laotsetung: folds 
+Uncalled bet (470) returned to qwertzu12345678
+qwertzu12345678 collected 240 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ac 3c 3s]
+Seat 2: laotsetung (big blind) folded on the Flop
+Seat 3: qwertzu12345678 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #242207067668: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:30 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (790 in chips) 
+Seat 3: qwertzu12345678 (710 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Js 5h]
+laotsetung: folds 
+Uncalled bet (30) returned to qwertzu12345678
+qwertzu12345678 collected 60 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (button) (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) collected (60)
+
+
+
+PokerStars Hand #242207069568: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:34 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (760 in chips) 
+Seat 3: qwertzu12345678 (740 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Th Qh]
+qwertzu12345678: folds 
+Uncalled bet (30) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (big blind) collected (60)
+Seat 3: qwertzu12345678 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242207071391: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:39 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (790 in chips) 
+Seat 3: qwertzu12345678 (710 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Kd Jh]
+laotsetung: raises 78 to 138
+qwertzu12345678: folds 
+Uncalled bet (78) returned to laotsetung
+laotsetung collected 120 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: laotsetung (button) (small blind) collected (120)
+Seat 3: qwertzu12345678 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242207076295: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:52 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (850 in chips) 
+Seat 3: qwertzu12345678 (650 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [2c 8c]
+qwertzu12345678: folds 
+Uncalled bet (30) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (big blind) collected (60)
+Seat 3: qwertzu12345678 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242207078084: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:34:57 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (880 in chips) 
+Seat 3: qwertzu12345678 (620 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Td Qh]
+laotsetung: raises 60 to 120
+qwertzu12345678: folds 
+Uncalled bet (60) returned to laotsetung
+laotsetung collected 120 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: laotsetung (button) (small blind) collected (120)
+Seat 3: qwertzu12345678 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242207080600: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:35:03 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (940 in chips) 
+Seat 3: qwertzu12345678 (560 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [2d 2c]
+qwertzu12345678: calls 30
+laotsetung: checks 
+*** FLOP *** [2h Kc 9s]
+laotsetung: checks 
+qwertzu12345678: bets 60
+laotsetung: calls 60
+*** TURN *** [2h Kc 9s] [6d]
+laotsetung: checks 
+qwertzu12345678: checks 
+*** RIVER *** [2h Kc 9s 6d] [5h]
+laotsetung: bets 198
+qwertzu12345678: folds 
+Uncalled bet (198) returned to laotsetung
+laotsetung collected 240 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h Kc 9s 6d 5h]
+Seat 2: laotsetung (big blind) collected (240)
+Seat 3: qwertzu12345678 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #242207095331: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:35:42 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1060 in chips) 
+Seat 3: qwertzu12345678 (440 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [4h 2s]
+laotsetung: folds 
+Uncalled bet (30) returned to qwertzu12345678
+qwertzu12345678 collected 60 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (button) (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) collected (60)
+
+
+
+PokerStars Hand #242207097141: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:35:46 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1030 in chips) 
+Seat 3: qwertzu12345678 (470 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [7h 3c]
+qwertzu12345678: folds 
+Uncalled bet (30) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (big blind) collected (60)
+Seat 3: qwertzu12345678 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242207099331: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:35:52 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1060 in chips) 
+Seat 3: qwertzu12345678 (440 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Ah 7h]
+laotsetung: raises 66 to 126
+qwertzu12345678: folds 
+Uncalled bet (66) returned to laotsetung
+laotsetung collected 120 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: laotsetung (button) (small blind) collected (120)
+Seat 3: qwertzu12345678 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242207103504: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:36:03 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1120 in chips) 
+Seat 3: qwertzu12345678 (380 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Ad 5c]
+qwertzu12345678: folds 
+Uncalled bet (30) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (big blind) collected (60)
+Seat 3: qwertzu12345678 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #242207105874: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:36:09 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1150 in chips) 
+Seat 3: qwertzu12345678 (350 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [4d 9h]
+laotsetung: folds 
+Uncalled bet (30) returned to qwertzu12345678
+qwertzu12345678 collected 60 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: laotsetung (button) (small blind) folded before Flop
+Seat 3: qwertzu12345678 (big blind) collected (60)
+
+
+
+PokerStars Hand #242207109583: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:36:19 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (1120 in chips) 
+Seat 3: qwertzu12345678 (380 in chips) 
+qwertzu12345678: posts small blind 30
+laotsetung: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Kc 8c]
+qwertzu12345678: raises 60 to 120
+laotsetung: calls 60
+*** FLOP *** [6h Ad Qs]
+laotsetung: checks 
+qwertzu12345678: bets 240
+laotsetung: folds 
+Uncalled bet (240) returned to qwertzu12345678
+qwertzu12345678 collected 240 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6h Ad Qs]
+Seat 2: laotsetung (big blind) folded on the Flop
+Seat 3: qwertzu12345678 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #242207114678: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/03/03 14:36:32 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (1000 in chips) 
+Seat 3: qwertzu12345678 (500 in chips) 
+laotsetung: posts small blind 30
+qwertzu12345678: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [Qc 9s]
+laotsetung: raises 60 to 120
+qwertzu12345678: calls 60
+*** FLOP *** [4d Kd 6c]
+qwertzu12345678: bets 240
+laotsetung: folds 
+Uncalled bet (240) returned to qwertzu12345678
+qwertzu12345678 collected 240 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d Kd 6c]
+Seat 2: laotsetung (button) (small blind) folded on the Flop
+Seat 3: qwertzu12345678 (big blind) collected (240)
+
+
+
+PokerStars Hand #242207121306: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level V (40/80) - 2023/03/03 14:36:50 ET
+Table '3556590243 1' 3-max Seat #3 is the button
+Seat 2: laotsetung (880 in chips) 
+Seat 3: qwertzu12345678 (620 in chips) 
+qwertzu12345678: posts small blind 40
+laotsetung: posts big blind 80
+*** HOLE CARDS ***
+Dealt to laotsetung [9d Th]
+qwertzu12345678: calls 40
+laotsetung: checks 
+*** FLOP *** [3s Kc Ks]
+laotsetung: checks 
+qwertzu12345678: bets 540 and is all-in
+laotsetung: folds 
+Uncalled bet (540) returned to qwertzu12345678
+qwertzu12345678 collected 160 from pot
+qwertzu12345678: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s Kc Ks]
+Seat 2: laotsetung (big blind) folded on the Flop
+Seat 3: qwertzu12345678 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #242207125874: Tournament #3556590243, $0.23+$0.02 USD Hold'em No Limit - Level V (40/80) - 2023/03/03 14:37:02 ET
+Table '3556590243 1' 3-max Seat #2 is the button
+Seat 2: laotsetung (800 in chips) 
+Seat 3: qwertzu12345678 (700 in chips) 
+laotsetung: posts small blind 40
+qwertzu12345678: posts big blind 80
+*** HOLE CARDS ***
+Dealt to laotsetung [Kh 8c]
+laotsetung: calls 40
+qwertzu12345678: raises 80 to 160
+laotsetung: calls 80
+*** FLOP *** [4h 8d Ts]
+qwertzu12345678: bets 540 and is all-in
+laotsetung: calls 540
+*** TURN *** [4h 8d Ts] [9h]
+*** RIVER *** [4h 8d Ts 9h] [7d]
+*** SHOW DOWN ***
+qwertzu12345678: shows [Ac 3c] (high card Ace)
+laotsetung: shows [Kh 8c] (a pair of Eights)
+laotsetung collected 1400 from pot
+qwertzu12345678 finished the tournament in 2nd place
+laotsetung wins the tournament and receives $0.75 - congratulations!
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [4h 8d Ts 9h 7d]
+Seat 2: laotsetung (button) (small blind) showed [Kh 8c] and won (1400) with a pair of Eights
+Seat 3: qwertzu12345678 (big blind) showed [Ac 3c] and lost with high card Ace
+
+
+

@@ -1,0 +1,607 @@
+﻿PokerStars Hand #242367227943: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:11:40 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (500 in chips) 
+Seat 2: laotsetung (500 in chips) 
+Seat 3: kerrie709 (500 in chips) 
+laotsetung: posts small blind 10
+kerrie709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Kc Tc]
+$imhf666: calls 20
+laotsetung: raises 20 to 40
+kerrie709: calls 20
+$imhf666: calls 20
+*** FLOP *** [Ah 7h Ts]
+laotsetung: checks 
+kerrie709: checks 
+$imhf666: checks 
+*** TURN *** [Ah 7h Ts] [6c]
+laotsetung: bets 40
+kerrie709: folds 
+$imhf666: calls 40
+*** RIVER *** [Ah 7h Ts 6c] [4d]
+laotsetung: bets 60
+$imhf666: calls 60
+*** SHOW DOWN ***
+laotsetung: shows [Kc Tc] (a pair of Tens)
+$imhf666: mucks hand 
+laotsetung collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ah 7h Ts 6c 4d]
+Seat 1: $imhf666 (button) mucked [Jd Qs]
+Seat 2: laotsetung (small blind) showed [Kc Tc] and won (320) with a pair of Tens
+Seat 3: kerrie709 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242367235890: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:12:11 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (360 in chips) 
+Seat 2: laotsetung (680 in chips) 
+Seat 3: kerrie709 (460 in chips) 
+kerrie709: posts small blind 10
+$imhf666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [6d 2d]
+laotsetung: folds 
+kerrie709: folds 
+Uncalled bet (10) returned to $imhf666
+$imhf666 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: $imhf666 (big blind) collected (20)
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: kerrie709 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242367237101: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:12:16 ET
+Table '3560293874 1' 3-max Seat #3 is the button
+Seat 1: $imhf666 (370 in chips) 
+Seat 2: laotsetung (680 in chips) 
+Seat 3: kerrie709 (450 in chips) 
+$imhf666: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [8d Th]
+kerrie709: raises 20 to 40
+$imhf666: calls 30
+laotsetung: folds 
+*** FLOP *** [7c Qc 6s]
+$imhf666: checks 
+kerrie709: bets 60
+$imhf666: folds 
+Uncalled bet (60) returned to kerrie709
+kerrie709 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7c Qc 6s]
+Seat 1: $imhf666 (small blind) folded on the Flop
+Seat 2: laotsetung (big blind) folded before Flop
+Seat 3: kerrie709 (button) collected (100)
+
+
+
+PokerStars Hand #242367241935: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:12:35 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (330 in chips) 
+Seat 2: laotsetung (660 in chips) 
+Seat 3: kerrie709 (510 in chips) 
+laotsetung: posts small blind 10
+kerrie709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [3c Tc]
+$imhf666: calls 20
+laotsetung: calls 10
+kerrie709: raises 60 to 80
+$imhf666: folds 
+laotsetung: folds 
+Uncalled bet (60) returned to kerrie709
+kerrie709 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: $imhf666 (button) folded before Flop
+Seat 2: laotsetung (small blind) folded before Flop
+Seat 3: kerrie709 (big blind) collected (60)
+
+
+
+PokerStars Hand #242367245975: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:12:51 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (310 in chips) 
+Seat 2: laotsetung (640 in chips) 
+Seat 3: kerrie709 (550 in chips) 
+kerrie709: posts small blind 10
+$imhf666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [4h 9d]
+laotsetung: folds 
+kerrie709: calls 10
+$imhf666: checks 
+*** FLOP *** [5d 6s 5s]
+kerrie709: checks 
+$imhf666: checks 
+*** TURN *** [5d 6s 5s] [9s]
+kerrie709: checks 
+$imhf666: checks 
+*** RIVER *** [5d 6s 5s 9s] [9h]
+kerrie709: checks 
+$imhf666: bets 120
+kerrie709: folds 
+Uncalled bet (120) returned to $imhf666
+$imhf666 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 6s 5s 9s 9h]
+Seat 1: $imhf666 (big blind) collected (40)
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: kerrie709 (small blind) folded on the River
+
+
+
+PokerStars Hand #242367251360: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:13:12 ET
+Table '3560293874 1' 3-max Seat #3 is the button
+Seat 1: $imhf666 (330 in chips) 
+Seat 2: laotsetung (640 in chips) 
+Seat 3: kerrie709 (530 in chips) 
+$imhf666: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [8h Ks]
+kerrie709: folds 
+$imhf666: calls 10
+laotsetung: raises 20 to 40
+$imhf666: calls 20
+*** FLOP *** [4s 4c Jd]
+$imhf666: bets 20
+laotsetung: calls 20
+*** TURN *** [4s 4c Jd] [Jc]
+$imhf666: bets 40
+laotsetung: folds 
+Uncalled bet (40) returned to $imhf666
+$imhf666 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 4c Jd Jc]
+Seat 1: $imhf666 (small blind) collected (120)
+Seat 2: laotsetung (big blind) folded on the Turn
+Seat 3: kerrie709 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242367258175: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:13:39 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (390 in chips) 
+Seat 2: laotsetung (580 in chips) 
+Seat 3: kerrie709 (530 in chips) 
+laotsetung: posts small blind 10
+kerrie709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [8c 7d]
+$imhf666: calls 20
+laotsetung: folds 
+kerrie709: checks 
+*** FLOP *** [Td 3d Ts]
+kerrie709: checks 
+$imhf666: checks 
+*** TURN *** [Td 3d Ts] [6d]
+kerrie709: checks 
+$imhf666: checks 
+*** RIVER *** [Td 3d Ts 6d] [Qh]
+kerrie709: checks 
+$imhf666: bets 20
+kerrie709: folds 
+Uncalled bet (20) returned to $imhf666
+$imhf666 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Td 3d Ts 6d Qh]
+Seat 1: $imhf666 (button) collected (50)
+Seat 2: laotsetung (small blind) folded before Flop
+Seat 3: kerrie709 (big blind) folded on the River
+
+
+
+PokerStars Hand #242367264686: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:14:04 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (420 in chips) 
+Seat 2: laotsetung (570 in chips) 
+Seat 3: kerrie709 (510 in chips) 
+kerrie709: posts small blind 10
+$imhf666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [5c 3s]
+laotsetung: folds 
+kerrie709: folds 
+Uncalled bet (10) returned to $imhf666
+$imhf666 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: $imhf666 (big blind) collected (20)
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: kerrie709 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242367266637: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:14:12 ET
+Table '3560293874 1' 3-max Seat #3 is the button
+Seat 1: $imhf666 (430 in chips) 
+Seat 2: laotsetung (570 in chips) 
+Seat 3: kerrie709 (500 in chips) 
+$imhf666: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [5s 7h]
+kerrie709: raises 20 to 40
+$imhf666: calls 30
+laotsetung: folds 
+*** FLOP *** [Ah 9c 8d]
+$imhf666: checks 
+kerrie709: bets 60
+$imhf666: folds 
+Uncalled bet (60) returned to kerrie709
+kerrie709 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ah 9c 8d]
+Seat 1: $imhf666 (small blind) folded on the Flop
+Seat 2: laotsetung (big blind) folded before Flop
+Seat 3: kerrie709 (button) collected (100)
+
+
+
+PokerStars Hand #242367271552: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/03/10 20:14:32 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (390 in chips) 
+Seat 2: laotsetung (550 in chips) 
+Seat 3: kerrie709 (560 in chips) 
+laotsetung: posts small blind 10
+kerrie709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [5d Ac]
+$imhf666: calls 20
+laotsetung: calls 10
+kerrie709: checks 
+*** FLOP *** [Jh Jc Js]
+laotsetung: checks 
+kerrie709: checks 
+$imhf666: bets 20
+laotsetung: calls 20
+kerrie709: calls 20
+*** TURN *** [Jh Jc Js] [Qh]
+laotsetung: checks 
+kerrie709: checks 
+$imhf666: bets 40
+laotsetung: calls 40
+kerrie709: folds 
+*** RIVER *** [Jh Jc Js Qh] [9s]
+laotsetung: checks 
+$imhf666: bets 100
+laotsetung: calls 100
+*** SHOW DOWN ***
+$imhf666: shows [Qc 5h] (a full house, Jacks full of Queens)
+laotsetung: mucks hand 
+$imhf666 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Jh Jc Js Qh 9s]
+Seat 1: $imhf666 (button) showed [Qc 5h] and won (400) with a full house, Jacks full of Queens
+Seat 2: laotsetung (small blind) mucked [5d Ac]
+Seat 3: kerrie709 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #242367280439: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/10 20:15:07 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (610 in chips) 
+Seat 2: laotsetung (370 in chips) 
+Seat 3: kerrie709 (520 in chips) 
+kerrie709: posts small blind 15
+$imhf666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Kh Qs]
+laotsetung: raises 60 to 90
+kerrie709: calls 75
+$imhf666: calls 60
+*** FLOP *** [2c Qc 6d]
+kerrie709: checks 
+$imhf666: checks 
+laotsetung: bets 90
+kerrie709: folds 
+$imhf666: calls 90
+*** TURN *** [2c Qc 6d] [5d]
+$imhf666: checks 
+laotsetung: bets 190 and is all-in
+$imhf666: folds 
+Uncalled bet (190) returned to laotsetung
+laotsetung collected 450 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [2c Qc 6d 5d]
+Seat 1: $imhf666 (big blind) folded on the Turn
+Seat 2: laotsetung (button) collected (450)
+Seat 3: kerrie709 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #242367288199: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/10 20:15:38 ET
+Table '3560293874 1' 3-max Seat #3 is the button
+Seat 1: $imhf666 (430 in chips) 
+Seat 2: laotsetung (640 in chips) 
+Seat 3: kerrie709 (430 in chips) 
+$imhf666: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Ks 3h]
+kerrie709: folds 
+$imhf666: calls 15
+laotsetung: checks 
+*** FLOP *** [6d 2h 5d]
+$imhf666: checks 
+laotsetung: checks 
+*** TURN *** [6d 2h 5d] [4h]
+$imhf666: checks 
+laotsetung: bets 60
+$imhf666: calls 60
+*** RIVER *** [6d 2h 5d 4h] [Jh]
+$imhf666: checks 
+laotsetung: bets 120
+$imhf666: raises 120 to 240
+laotsetung: calls 120
+*** SHOW DOWN ***
+$imhf666: shows [4d 3s] (a straight, Deuce to Six)
+laotsetung: shows [Ks 3h] (a straight, Deuce to Six)
+$imhf666 collected 330 from pot
+laotsetung collected 330 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [6d 2h 5d 4h Jh]
+Seat 1: $imhf666 (small blind) showed [4d 3s] and won (330) with a straight, Deuce to Six
+Seat 2: laotsetung (big blind) showed [Ks 3h] and won (330) with a straight, Deuce to Six
+Seat 3: kerrie709 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242367297758: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/10 20:16:15 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (430 in chips) 
+Seat 2: laotsetung (640 in chips) 
+Seat 3: kerrie709 (430 in chips) 
+laotsetung: posts small blind 15
+kerrie709: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [5s 7s]
+$imhf666: calls 30
+laotsetung: calls 15
+kerrie709: checks 
+*** FLOP *** [8d Ts 7c]
+laotsetung: bets 30
+kerrie709: raises 60 to 90
+$imhf666: calls 90
+laotsetung: folds 
+*** TURN *** [8d Ts 7c] [8h]
+kerrie709: bets 90
+$imhf666: raises 90 to 180
+kerrie709: calls 90
+*** RIVER *** [8d Ts 7c 8h] [2d]
+kerrie709: checks 
+$imhf666: checks 
+*** SHOW DOWN ***
+kerrie709: shows [Tc 6s] (two pair, Tens and Eights)
+$imhf666: mucks hand 
+kerrie709 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [8d Ts 7c 8h 2d]
+Seat 1: $imhf666 (button) mucked [5d 9c]
+Seat 2: laotsetung (small blind) folded on the Flop
+Seat 3: kerrie709 (big blind) showed [Tc 6s] and won (660) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #242367306481: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/10 20:16:50 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (130 in chips) 
+Seat 2: laotsetung (580 in chips) 
+Seat 3: kerrie709 (790 in chips) 
+kerrie709: posts small blind 15
+$imhf666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [8s 2d]
+laotsetung: folds 
+kerrie709: calls 15
+$imhf666: raises 100 to 130 and is all-in
+kerrie709: calls 100
+*** FLOP *** [6d Js 6s]
+*** TURN *** [6d Js 6s] [Ts]
+*** RIVER *** [6d Js 6s Ts] [4h]
+*** SHOW DOWN ***
+kerrie709: shows [4c Qd] (two pair, Sixes and Fours)
+$imhf666: shows [6c Ad] (three of a kind, Sixes)
+$imhf666 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [6d Js 6s Ts 4h]
+Seat 1: $imhf666 (big blind) showed [6c Ad] and won (260) with three of a kind, Sixes
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: kerrie709 (small blind) showed [4c Qd] and lost with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #242367310397: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/10 20:17:05 ET
+Table '3560293874 1' 3-max Seat #3 is the button
+Seat 1: $imhf666 (260 in chips) 
+Seat 2: laotsetung (580 in chips) 
+Seat 3: kerrie709 (660 in chips) 
+$imhf666: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Ks 7s]
+kerrie709: folds 
+$imhf666: calls 15
+laotsetung: raises 30 to 60
+$imhf666: calls 30
+*** FLOP *** [6s 8c As]
+$imhf666: bets 30
+laotsetung: raises 30 to 60
+$imhf666: raises 30 to 90
+laotsetung: calls 30
+*** TURN *** [6s 8c As] [Tc]
+$imhf666: bets 30
+laotsetung: calls 30
+*** RIVER *** [6s 8c As Tc] [7d]
+$imhf666: bets 80 and is all-in
+laotsetung: calls 80
+*** SHOW DOWN ***
+$imhf666: shows [8h 7c] (two pair, Eights and Sevens)
+laotsetung: shows [Ks 7s] (a pair of Sevens)
+$imhf666 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [6s 8c As Tc 7d]
+Seat 1: $imhf666 (small blind) showed [8h 7c] and won (520) with two pair, Eights and Sevens
+Seat 2: laotsetung (big blind) showed [Ks 7s] and lost with a pair of Sevens
+Seat 3: kerrie709 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #242367318927: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/03/10 20:17:39 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (520 in chips) 
+Seat 2: laotsetung (320 in chips) 
+Seat 3: kerrie709 (660 in chips) 
+laotsetung: posts small blind 15
+kerrie709: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Kh Ks]
+$imhf666: calls 30
+laotsetung: raises 60 to 90
+kerrie709: calls 60
+$imhf666: raises 60 to 150
+laotsetung: raises 170 to 320 and is all-in
+kerrie709: folds 
+$imhf666: calls 170
+*** FLOP *** [8s As 3h]
+*** TURN *** [8s As 3h] [Qh]
+*** RIVER *** [8s As 3h Qh] [Jd]
+*** SHOW DOWN ***
+laotsetung: shows [Kh Ks] (a pair of Kings)
+$imhf666: shows [9d 9h] (a pair of Nines)
+laotsetung collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [8s As 3h Qh Jd]
+Seat 1: $imhf666 (button) showed [9d 9h] and lost with a pair of Nines
+Seat 2: laotsetung (small blind) showed [Kh Ks] and won (730) with a pair of Kings
+Seat 3: kerrie709 (big blind) folded before Flop
+
+
+
+PokerStars Hand #242367326477: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/10 20:18:09 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (200 in chips) 
+Seat 2: laotsetung (730 in chips) 
+Seat 3: kerrie709 (570 in chips) 
+kerrie709: posts small blind 20
+$imhf666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [4d 5d]
+laotsetung: folds 
+kerrie709: folds 
+Uncalled bet (20) returned to $imhf666
+$imhf666 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: $imhf666 (big blind) collected (40)
+Seat 2: laotsetung (button) folded before Flop (didn't bet)
+Seat 3: kerrie709 (small blind) folded before Flop
+
+
+
+PokerStars Hand #242367328401: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/10 20:18:16 ET
+Table '3560293874 1' 3-max Seat #3 is the button
+Seat 1: $imhf666 (220 in chips) 
+Seat 2: laotsetung (730 in chips) 
+Seat 3: kerrie709 (550 in chips) 
+$imhf666: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [6d 5d]
+kerrie709: raises 40 to 80
+$imhf666: raises 140 to 220 and is all-in
+laotsetung: folds 
+kerrie709: calls 140
+*** FLOP *** [3h 7h Kd]
+*** TURN *** [3h 7h Kd] [5s]
+*** RIVER *** [3h 7h Kd 5s] [8d]
+*** SHOW DOWN ***
+$imhf666: shows [Ad 6c] (high card Ace)
+kerrie709: shows [9c Qh] (high card King)
+$imhf666 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [3h 7h Kd 5s 8d]
+Seat 1: $imhf666 (small blind) showed [Ad 6c] and won (480) with high card Ace
+Seat 2: laotsetung (big blind) folded before Flop
+Seat 3: kerrie709 (button) showed [9c Qh] and lost with high card King
+
+
+
+PokerStars Hand #242367332397: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/10 20:18:32 ET
+Table '3560293874 1' 3-max Seat #1 is the button
+Seat 1: $imhf666 (480 in chips) 
+Seat 2: laotsetung (690 in chips) 
+Seat 3: kerrie709 (330 in chips) 
+laotsetung: posts small blind 20
+kerrie709: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [9c 7s]
+$imhf666: raises 440 to 480 and is all-in
+laotsetung: folds 
+kerrie709: calls 290 and is all-in
+Uncalled bet (150) returned to $imhf666
+*** FLOP *** [Jc Js 4d]
+*** TURN *** [Jc Js 4d] [Td]
+*** RIVER *** [Jc Js 4d Td] [Qd]
+*** SHOW DOWN ***
+kerrie709: shows [3s 3c] (two pair, Jacks and Threes)
+$imhf666: shows [8d 9d] (a flush, Queen high)
+$imhf666 collected 680 from pot
+kerrie709 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Jc Js 4d Td Qd]
+Seat 1: $imhf666 (button) showed [8d 9d] and won (680) with a flush, Queen high
+Seat 2: laotsetung (small blind) folded before Flop
+Seat 3: kerrie709 (big blind) showed [3s 3c] and lost with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #242367337417: Tournament #3560293874, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/03/10 20:18:52 ET
+Table '3560293874 1' 3-max Seat #2 is the button
+Seat 1: $imhf666 (830 in chips) 
+Seat 2: laotsetung (670 in chips) 
+laotsetung: posts small blind 20
+$imhf666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [8s Kd]
+laotsetung: raises 40 to 80
+$imhf666: calls 40
+*** FLOP *** [2h Ac Qh]
+$imhf666: bets 40
+laotsetung: calls 40
+*** TURN *** [2h Ac Qh] [2c]
+$imhf666: bets 240
+laotsetung: folds 
+Uncalled bet (240) returned to $imhf666
+$imhf666 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h Ac Qh 2c]
+Seat 1: $imhf666 (big blind) collected (240)
+Seat 2: laotsetung (button) (small blind) folded on the Turn
+
+
+

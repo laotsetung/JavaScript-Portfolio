@@ -1,0 +1,936 @@
+﻿PokerStars Hand #241589451967: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:06:20 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (500 in chips) 
+Seat 2: lapardii06 (500 in chips) 
+Seat 3: maxdarling (500 in chips) 
+lapardii06: posts small blind 10
+maxdarling: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Th Ks]
+laotsetung: raises 20 to 40
+lapardii06: calls 30
+maxdarling: raises 20 to 60
+laotsetung: calls 20
+lapardii06: calls 20
+*** FLOP *** [2s 3d 3h]
+lapardii06: checks 
+maxdarling: bets 20
+laotsetung: calls 20
+lapardii06: calls 20
+*** TURN *** [2s 3d 3h] [6d]
+lapardii06: checks 
+maxdarling: bets 120
+laotsetung: folds 
+lapardii06: calls 120
+*** RIVER *** [2s 3d 3h 6d] [6s]
+lapardii06: checks 
+maxdarling: bets 240
+lapardii06: folds 
+Uncalled bet (240) returned to maxdarling
+maxdarling collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2s 3d 3h 6d 6s]
+Seat 1: laotsetung (button) folded on the Turn
+Seat 2: lapardii06 (small blind) folded on the River
+Seat 3: maxdarling (big blind) collected (480)
+
+
+
+PokerStars Hand #241589463135: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:06:48 ET
+Table '3542272759 1' 3-max Seat #2 is the button
+Seat 1: laotsetung (420 in chips) 
+Seat 2: lapardii06 (300 in chips) 
+Seat 3: maxdarling (780 in chips) 
+maxdarling: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [4d 4c]
+lapardii06: raises 20 to 40
+maxdarling: folds 
+laotsetung: calls 20
+*** FLOP *** [8s 5s Td]
+laotsetung: checks 
+lapardii06: checks 
+*** TURN *** [8s 5s Td] [5d]
+laotsetung: bets 40
+lapardii06: calls 40
+*** RIVER *** [8s 5s Td 5d] [7c]
+laotsetung: checks 
+lapardii06: checks 
+*** SHOW DOWN ***
+laotsetung: shows [4d 4c] (two pair, Fives and Fours)
+lapardii06: mucks hand 
+laotsetung collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [8s 5s Td 5d 7c]
+Seat 1: laotsetung (big blind) showed [4d 4c] and won (170) with two pair, Fives and Fours
+Seat 2: lapardii06 (button) mucked [Kc Qh]
+Seat 3: maxdarling (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589470920: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:07:07 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (510 in chips) 
+Seat 2: lapardii06 (220 in chips) 
+Seat 3: maxdarling (770 in chips) 
+laotsetung: posts small blind 10
+lapardii06: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [4s Qc]
+maxdarling: folds 
+laotsetung: calls 10
+lapardii06: raises 40 to 60
+laotsetung: folds 
+Uncalled bet (40) returned to lapardii06
+lapardii06 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laotsetung (small blind) folded before Flop
+Seat 2: lapardii06 (big blind) collected (40)
+Seat 3: maxdarling (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #241589475074: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:07:18 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (490 in chips) 
+Seat 2: lapardii06 (240 in chips) 
+Seat 3: maxdarling (770 in chips) 
+lapardii06: posts small blind 10
+maxdarling: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [3s 6d]
+laotsetung: folds 
+lapardii06: raises 20 to 40
+maxdarling: calls 20
+*** FLOP *** [7s Ad 2c]
+lapardii06: checks 
+maxdarling: checks 
+*** TURN *** [7s Ad 2c] [9c]
+lapardii06: bets 20
+maxdarling: calls 20
+*** RIVER *** [7s Ad 2c 9c] [3c]
+lapardii06: checks 
+maxdarling: checks 
+*** SHOW DOWN ***
+lapardii06: shows [Tc Jh] (high card Ace)
+maxdarling: shows [2d Qd] (a pair of Deuces)
+maxdarling collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s Ad 2c 9c 3c]
+Seat 1: laotsetung (button) folded before Flop (didn't bet)
+Seat 2: lapardii06 (small blind) showed [Tc Jh] and lost with high card Ace
+Seat 3: maxdarling (big blind) showed [2d Qd] and won (120) with a pair of Deuces
+
+
+
+PokerStars Hand #241589482189: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:07:36 ET
+Table '3542272759 1' 3-max Seat #2 is the button
+Seat 1: laotsetung (490 in chips) 
+Seat 2: lapardii06 (180 in chips) 
+Seat 3: maxdarling (830 in chips) 
+maxdarling: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [5d 4d]
+lapardii06: folds 
+maxdarling: calls 10
+laotsetung: checks 
+*** FLOP *** [7c Td Kh]
+maxdarling: checks 
+laotsetung: checks 
+*** TURN *** [7c Td Kh] [Ad]
+maxdarling: checks 
+laotsetung: checks 
+*** RIVER *** [7c Td Kh Ad] [Qd]
+maxdarling: bets 20
+laotsetung: raises 60 to 80
+maxdarling: calls 60
+*** SHOW DOWN ***
+laotsetung: shows [5d 4d] (a flush, Ace high)
+maxdarling: mucks hand 
+laotsetung collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7c Td Kh Ad Qd]
+Seat 1: laotsetung (big blind) showed [5d 4d] and won (200) with a flush, Ace high
+Seat 2: lapardii06 (button) folded before Flop (didn't bet)
+Seat 3: maxdarling (small blind) mucked [Ks 8c]
+
+
+
+PokerStars Hand #241589491367: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:08:00 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (590 in chips) 
+Seat 2: lapardii06 (180 in chips) 
+Seat 3: maxdarling (730 in chips) 
+laotsetung: posts small blind 10
+lapardii06: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [9s 2s]
+maxdarling: calls 20
+laotsetung: calls 10
+lapardii06: raises 60 to 80
+maxdarling: calls 60
+laotsetung: folds 
+*** FLOP *** [8c 2d 4h]
+lapardii06: checks 
+maxdarling: checks 
+*** TURN *** [8c 2d 4h] [2h]
+lapardii06: bets 40
+maxdarling: calls 40
+*** RIVER *** [8c 2d 4h 2h] [5c]
+lapardii06: bets 60 and is all-in
+maxdarling: calls 60
+*** SHOW DOWN ***
+lapardii06: shows [Ad Qc] (a pair of Deuces)
+maxdarling: shows [Kd 8h] (two pair, Eights and Deuces)
+maxdarling collected 380 from pot
+lapardii06 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [8c 2d 4h 2h 5c]
+Seat 1: laotsetung (small blind) folded before Flop
+Seat 2: lapardii06 (big blind) showed [Ad Qc] and lost with a pair of Deuces
+Seat 3: maxdarling (button) showed [Kd 8h] and won (380) with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #241589503335: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:08:30 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (570 in chips) 
+Seat 3: maxdarling (930 in chips) 
+laotsetung: posts small blind 10
+maxdarling: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Tc 2s]
+laotsetung: folds 
+Uncalled bet (10) returned to maxdarling
+maxdarling collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: laotsetung (button) (small blind) folded before Flop
+Seat 3: maxdarling (big blind) collected (20)
+
+
+
+PokerStars Hand #241589505642: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:08:36 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (560 in chips) 
+Seat 3: maxdarling (940 in chips) 
+maxdarling: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [Ks 4h]
+maxdarling: calls 10
+laotsetung: checks 
+*** FLOP *** [Kc 3d 6h]
+laotsetung: checks 
+maxdarling: checks 
+*** TURN *** [Kc 3d 6h] [7d]
+laotsetung: bets 40
+maxdarling: folds 
+Uncalled bet (40) returned to laotsetung
+laotsetung collected 40 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc 3d 6h 7d]
+Seat 1: laotsetung (big blind) collected (40)
+Seat 3: maxdarling (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #241589513178: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:08:55 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (580 in chips) 
+Seat 3: maxdarling (920 in chips) 
+laotsetung: posts small blind 10
+maxdarling: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [2d 6h]
+laotsetung: folds 
+Uncalled bet (10) returned to maxdarling
+maxdarling collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: laotsetung (button) (small blind) folded before Flop
+Seat 3: maxdarling (big blind) collected (20)
+
+
+
+PokerStars Hand #241589514908: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:09:00 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (570 in chips) 
+Seat 3: maxdarling (930 in chips) 
+maxdarling: posts small blind 10
+laotsetung: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [5d 8s]
+maxdarling: calls 10
+laotsetung: checks 
+*** FLOP *** [Jc 9h Qd]
+laotsetung: checks 
+maxdarling: checks 
+*** TURN *** [Jc 9h Qd] [6h]
+laotsetung: checks 
+maxdarling: bets 20
+laotsetung: folds 
+Uncalled bet (20) returned to maxdarling
+maxdarling collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 9h Qd 6h]
+Seat 1: laotsetung (big blind) folded on the Turn
+Seat 3: maxdarling (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #241589522552: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2023/02/03 14:09:19 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (550 in chips) 
+Seat 3: maxdarling (950 in chips) 
+laotsetung: posts small blind 10
+maxdarling: posts big blind 20
+*** HOLE CARDS ***
+Dealt to laotsetung [As Kd]
+laotsetung: raises 20 to 40
+maxdarling: calls 20
+*** FLOP *** [7s 9h Qd]
+maxdarling: checks 
+laotsetung: bets 66
+maxdarling: folds 
+Uncalled bet (66) returned to laotsetung
+laotsetung collected 80 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 9h Qd]
+Seat 1: laotsetung (button) (small blind) collected (80)
+Seat 3: maxdarling (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241589530440: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:09:39 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (590 in chips) 
+Seat 3: maxdarling (910 in chips) 
+maxdarling: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Ah Qd]
+maxdarling: calls 15
+laotsetung: raises 75 to 105
+maxdarling: calls 75
+*** FLOP *** [Js Jh Ks]
+laotsetung: checks 
+maxdarling: bets 105
+laotsetung: calls 105
+*** TURN *** [Js Jh Ks] [4c]
+laotsetung: checks 
+maxdarling: checks 
+*** RIVER *** [Js Jh Ks 4c] [5c]
+laotsetung: checks 
+maxdarling: checks 
+*** SHOW DOWN ***
+laotsetung: shows [Ah Qd] (a pair of Jacks)
+maxdarling: mucks hand 
+laotsetung collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Js Jh Ks 4c 5c]
+Seat 1: laotsetung (big blind) showed [Ah Qd] and won (420) with a pair of Jacks
+Seat 3: maxdarling (button) (small blind) mucked [As 6c]
+
+
+
+PokerStars Hand #241589541088: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:10:07 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (800 in chips) 
+Seat 3: maxdarling (700 in chips) 
+laotsetung: posts small blind 15
+maxdarling: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [4c 2c]
+laotsetung: calls 15
+maxdarling: checks 
+*** FLOP *** [Js Jh Ac]
+maxdarling: checks 
+laotsetung: checks 
+*** TURN *** [Js Jh Ac] [2d]
+maxdarling: checks 
+laotsetung: bets 60
+maxdarling: folds 
+Uncalled bet (60) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Jh Ac 2d]
+Seat 1: laotsetung (button) (small blind) collected (60)
+Seat 3: maxdarling (big blind) folded on the Turn
+
+
+
+PokerStars Hand #241589548433: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:10:26 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (830 in chips) 
+Seat 3: maxdarling (670 in chips) 
+maxdarling: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [6c 9d]
+maxdarling: folds 
+Uncalled bet (15) returned to laotsetung
+laotsetung collected 30 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: laotsetung (big blind) collected (30)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589550542: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:10:31 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (845 in chips) 
+Seat 3: maxdarling (655 in chips) 
+laotsetung: posts small blind 15
+maxdarling: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Ts 6s]
+laotsetung: calls 15
+maxdarling: checks 
+*** FLOP *** [7c Js 4s]
+maxdarling: bets 30
+laotsetung: calls 30
+*** TURN *** [7c Js 4s] [7d]
+maxdarling: bets 30
+laotsetung: calls 30
+*** RIVER *** [7c Js 4s 7d] [6h]
+maxdarling: bets 30
+laotsetung: calls 30
+*** SHOW DOWN ***
+maxdarling: shows [Qh 4c] (two pair, Sevens and Fours)
+laotsetung: shows [Ts 6s] (two pair, Sevens and Sixes)
+laotsetung collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c Js 4s 7d 6h]
+Seat 1: laotsetung (button) (small blind) showed [Ts 6s] and won (240) with two pair, Sevens and Sixes
+Seat 3: maxdarling (big blind) showed [Qh 4c] and lost with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #241589558377: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:10:51 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (965 in chips) 
+Seat 3: maxdarling (535 in chips) 
+maxdarling: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [3d Kc]
+maxdarling: folds 
+Uncalled bet (15) returned to laotsetung
+laotsetung collected 30 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: laotsetung (big blind) collected (30)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589560525: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:10:57 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (980 in chips) 
+Seat 3: maxdarling (520 in chips) 
+laotsetung: posts small blind 15
+maxdarling: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [3h Ad]
+laotsetung: raises 30 to 60
+maxdarling: calls 30
+*** FLOP *** [5h 4h Qc]
+maxdarling: checks 
+laotsetung: bets 60
+maxdarling: calls 60
+*** TURN *** [5h 4h Qc] [7d]
+maxdarling: checks 
+laotsetung: checks 
+*** RIVER *** [5h 4h Qc 7d] [6d]
+maxdarling: bets 240
+laotsetung: calls 240
+*** SHOW DOWN ***
+maxdarling: shows [3c As] (a straight, Three to Seven)
+laotsetung: shows [3h Ad] (a straight, Three to Seven)
+maxdarling collected 360 from pot
+laotsetung collected 360 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [5h 4h Qc 7d 6d]
+Seat 1: laotsetung (button) (small blind) showed [3h Ad] and won (360) with a straight, Three to Seven
+Seat 3: maxdarling (big blind) showed [3c As] and won (360) with a straight, Three to Seven
+
+
+
+PokerStars Hand #241589575268: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:11:35 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (980 in chips) 
+Seat 3: maxdarling (520 in chips) 
+maxdarling: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [9d Ac]
+maxdarling: folds 
+Uncalled bet (15) returned to laotsetung
+laotsetung collected 30 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: laotsetung (big blind) collected (30)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589577255: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:11:40 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (995 in chips) 
+Seat 3: maxdarling (505 in chips) 
+laotsetung: posts small blind 15
+maxdarling: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Ah 8h]
+laotsetung: raises 36 to 66
+maxdarling: folds 
+Uncalled bet (36) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: laotsetung (button) (small blind) collected (60)
+Seat 3: maxdarling (big blind) folded before Flop
+
+
+
+PokerStars Hand #241589580818: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:11:49 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (1025 in chips) 
+Seat 3: maxdarling (475 in chips) 
+maxdarling: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Qd 2h]
+maxdarling: folds 
+Uncalled bet (15) returned to laotsetung
+laotsetung collected 30 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: laotsetung (big blind) collected (30)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589582733: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:11:54 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (1040 in chips) 
+Seat 3: maxdarling (460 in chips) 
+laotsetung: posts small blind 15
+maxdarling: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Qh 9c]
+laotsetung: raises 30 to 60
+maxdarling: folds 
+Uncalled bet (30) returned to laotsetung
+laotsetung collected 60 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: laotsetung (button) (small blind) collected (60)
+Seat 3: maxdarling (big blind) folded before Flop
+
+
+
+PokerStars Hand #241589585261: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2023/02/03 14:12:00 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (1070 in chips) 
+Seat 3: maxdarling (430 in chips) 
+maxdarling: posts small blind 15
+laotsetung: posts big blind 30
+*** HOLE CARDS ***
+Dealt to laotsetung [Jd Qd]
+maxdarling: raises 30 to 60
+laotsetung: calls 30
+*** FLOP *** [9d 2d 6s]
+laotsetung: checks 
+maxdarling: checks 
+*** TURN *** [9d 2d 6s] [3s]
+laotsetung: checks 
+maxdarling: checks 
+*** RIVER *** [9d 2d 6s 3s] [Js]
+laotsetung: bets 90
+maxdarling: raises 90 to 180
+laotsetung: calls 90
+*** SHOW DOWN ***
+maxdarling: shows [Th Jh] (a pair of Jacks)
+laotsetung: shows [Jd Qd] (a pair of Jacks - Queen kicker)
+laotsetung collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9d 2d 6s 3s Js]
+Seat 1: laotsetung (big blind) showed [Jd Qd] and won (480) with a pair of Jacks
+Seat 3: maxdarling (button) (small blind) showed [Th Jh] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #241589597293: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:12:31 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (1310 in chips) 
+Seat 3: maxdarling (190 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [6d Jc]
+laotsetung: raises 40 to 80
+maxdarling: raises 110 to 190 and is all-in
+laotsetung: calls 110
+*** FLOP *** [9h 7h Js]
+*** TURN *** [9h 7h Js] [3d]
+*** RIVER *** [9h 7h Js 3d] [Ah]
+*** SHOW DOWN ***
+maxdarling: shows [Jd Kh] (a pair of Jacks)
+laotsetung: shows [6d Jc] (a pair of Jacks - lower kicker)
+maxdarling collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [9h 7h Js 3d Ah]
+Seat 1: laotsetung (button) (small blind) showed [6d Jc] and lost with a pair of Jacks
+Seat 3: maxdarling (big blind) showed [Jd Kh] and won (380) with a pair of Jacks
+
+
+
+PokerStars Hand #241589603935: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:12:48 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (1120 in chips) 
+Seat 3: maxdarling (380 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [6d Ts]
+maxdarling: raises 340 to 380 and is all-in
+laotsetung: folds 
+Uncalled bet (340) returned to maxdarling
+maxdarling collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: laotsetung (big blind) folded before Flop
+Seat 3: maxdarling (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241589606862: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:12:55 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (1080 in chips) 
+Seat 3: maxdarling (420 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [6c Ks]
+laotsetung: calls 20
+maxdarling: checks 
+*** FLOP *** [Qs 6d Ac]
+maxdarling: checks 
+laotsetung: bets 80
+maxdarling: folds 
+Uncalled bet (80) returned to laotsetung
+laotsetung collected 80 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 6d Ac]
+Seat 1: laotsetung (button) (small blind) collected (80)
+Seat 3: maxdarling (big blind) folded on the Flop
+
+
+
+PokerStars Hand #241589612504: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:13:10 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (1120 in chips) 
+Seat 3: maxdarling (380 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [5s Jc]
+maxdarling: folds 
+Uncalled bet (20) returned to laotsetung
+laotsetung collected 40 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laotsetung (big blind) collected (40)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589615270: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:13:17 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (1140 in chips) 
+Seat 3: maxdarling (360 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Ad Td]
+laotsetung: raises 60 to 100
+maxdarling: folds 
+Uncalled bet (60) returned to laotsetung
+laotsetung collected 80 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: laotsetung (button) (small blind) collected (80)
+Seat 3: maxdarling (big blind) folded before Flop
+
+
+
+PokerStars Hand #241589618747: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:13:26 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (1180 in chips) 
+Seat 3: maxdarling (320 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [7h 4c]
+maxdarling: raises 40 to 80
+laotsetung: folds 
+Uncalled bet (40) returned to maxdarling
+maxdarling collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: laotsetung (big blind) folded before Flop
+Seat 3: maxdarling (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #241589621504: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:13:33 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (1140 in chips) 
+Seat 3: maxdarling (360 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Td 8d]
+laotsetung: calls 20
+maxdarling: raises 40 to 80
+laotsetung: calls 40
+*** FLOP *** [4d 2h Tc]
+maxdarling: bets 280 and is all-in
+laotsetung: calls 280
+*** TURN *** [4d 2h Tc] [Qc]
+*** RIVER *** [4d 2h Tc Qc] [6h]
+*** SHOW DOWN ***
+maxdarling: shows [9c Qh] (a pair of Queens)
+laotsetung: shows [Td 8d] (a pair of Tens)
+maxdarling collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [4d 2h Tc Qc 6h]
+Seat 1: laotsetung (button) (small blind) showed [Td 8d] and lost with a pair of Tens
+Seat 3: maxdarling (big blind) showed [9c Qh] and won (720) with a pair of Queens
+
+
+
+PokerStars Hand #241589628649: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:13:51 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (780 in chips) 
+Seat 3: maxdarling (720 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Js 8d]
+maxdarling: folds 
+Uncalled bet (20) returned to laotsetung
+laotsetung collected 40 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laotsetung (big blind) collected (40)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589631086: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:13:57 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (800 in chips) 
+Seat 3: maxdarling (700 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Td Ts]
+laotsetung: raises 80 to 120
+maxdarling: folds 
+Uncalled bet (80) returned to laotsetung
+laotsetung collected 80 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: laotsetung (button) (small blind) collected (80)
+Seat 3: maxdarling (big blind) folded before Flop
+
+
+
+PokerStars Hand #241589634875: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:14:07 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (840 in chips) 
+Seat 3: maxdarling (660 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [6d 2h]
+maxdarling: calls 20
+laotsetung: checks 
+*** FLOP *** [Kd 7h 6h]
+laotsetung: checks 
+maxdarling: checks 
+*** TURN *** [Kd 7h 6h] [9c]
+laotsetung: bets 40
+maxdarling: calls 40
+*** RIVER *** [Kd 7h 6h 9c] [4s]
+laotsetung: checks 
+maxdarling: checks 
+*** SHOW DOWN ***
+laotsetung: shows [6d 2h] (a pair of Sixes)
+maxdarling: shows [As 6c] (a pair of Sixes - Ace kicker)
+maxdarling collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 7h 6h 9c 4s]
+Seat 1: laotsetung (big blind) showed [6d 2h] and lost with a pair of Sixes
+Seat 3: maxdarling (button) (small blind) showed [As 6c] and won (160) with a pair of Sixes
+
+
+
+PokerStars Hand #241589641013: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:14:23 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (760 in chips) 
+Seat 3: maxdarling (740 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [5c 7h]
+laotsetung: folds 
+Uncalled bet (20) returned to maxdarling
+maxdarling collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laotsetung (button) (small blind) folded before Flop
+Seat 3: maxdarling (big blind) collected (40)
+
+
+
+PokerStars Hand #241589642882: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:14:27 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (740 in chips) 
+Seat 3: maxdarling (760 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [Kc 2s]
+maxdarling: calls 20
+laotsetung: checks 
+*** FLOP *** [6s 9h Ah]
+laotsetung: checks 
+maxdarling: checks 
+*** TURN *** [6s 9h Ah] [Qd]
+laotsetung: checks 
+maxdarling: checks 
+*** RIVER *** [6s 9h Ah Qd] [3d]
+laotsetung: bets 80
+maxdarling: calls 80
+*** SHOW DOWN ***
+laotsetung: shows [Kc 2s] (high card Ace)
+maxdarling: shows [5d 9d] (a pair of Nines)
+maxdarling collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s 9h Ah Qd 3d]
+Seat 1: laotsetung (big blind) showed [Kc 2s] and lost with high card Ace
+Seat 3: maxdarling (button) (small blind) showed [5d 9d] and won (240) with a pair of Nines
+
+
+
+PokerStars Hand #241589650005: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:14:46 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (620 in chips) 
+Seat 3: maxdarling (880 in chips) 
+laotsetung: posts small blind 20
+maxdarling: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [7c Qh]
+laotsetung: calls 20
+maxdarling: raises 40 to 80
+laotsetung: calls 40
+*** FLOP *** [7s Ac 9d]
+maxdarling: checks 
+laotsetung: bets 40
+maxdarling: raises 40 to 80
+laotsetung: calls 40
+*** TURN *** [7s Ac 9d] [3s]
+maxdarling: checks 
+laotsetung: checks 
+*** RIVER *** [7s Ac 9d 3s] [5d]
+maxdarling: bets 160
+laotsetung: folds 
+Uncalled bet (160) returned to maxdarling
+maxdarling collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7s Ac 9d 3s 5d]
+Seat 1: laotsetung (button) (small blind) folded on the River
+Seat 3: maxdarling (big blind) collected (320)
+
+
+
+PokerStars Hand #241589662387: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level III (20/40) - 2023/02/03 14:15:16 ET
+Table '3542272759 1' 3-max Seat #3 is the button
+Seat 1: laotsetung (460 in chips) 
+Seat 3: maxdarling (1040 in chips) 
+maxdarling: posts small blind 20
+laotsetung: posts big blind 40
+*** HOLE CARDS ***
+Dealt to laotsetung [4d Qd]
+maxdarling: folds 
+Uncalled bet (20) returned to laotsetung
+laotsetung collected 40 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laotsetung (big blind) collected (40)
+Seat 3: maxdarling (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #241589666132: Tournament #3542272759, $0.23+$0.02 USD Hold'em No Limit - Level IV (30/60) - 2023/02/03 14:15:26 ET
+Table '3542272759 1' 3-max Seat #1 is the button
+Seat 1: laotsetung (480 in chips) 
+Seat 3: maxdarling (1020 in chips) 
+laotsetung: posts small blind 30
+maxdarling: posts big blind 60
+*** HOLE CARDS ***
+Dealt to laotsetung [9d 9c]
+laotsetung: raises 420 to 480 and is all-in
+maxdarling: folds 
+Uncalled bet (420) returned to laotsetung
+laotsetung collected 120 from pot
+laotsetung: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: laotsetung (button) (small blind) collected (120)
+Seat 3: maxdarling (big blind) folded before Flop
+
+
+
