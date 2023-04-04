@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caramelo`s Memory</title>
+
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+
+    <script src="app.js"></script>
+
+  </head>
+  <body>
+
+    <main>
+      <div class="trava" id="trava"> <br><br><br><br><br><br><br><br><h1><b>CARAMELO'S MEMORY!</b></h1><br><br><br><br><br><br><h2>...CARREGANDO...</h2></div>
+      
+      <div class="container" id="container"> </div>
+    </main>
+
+  </body>
+  
+  <script>
+    var txt = '<table><tr>';
+    var cartas1 = [];
+    var cartas2 = [];
+    var sorteiaCarta;
+    var carta;
+    var umOudois;
+
+    for (let a = 0; a <= 19; a++){
+      sorteiaCarta = true;
+
+      while(sorteiaCarta){
+        carta = Math.floor((Math.random()*10)+1);
+        
+        if (cartas1){
+          if(cartas1.indexOf(carta) >= 0){
+            if(cartas2){
+              if(cartas2.indexOf(carta) >= 0){
+                continue; //sorteia outra carta
+              }else{
+                cartas2.push(carta);
+                umOudois = 2;
+                sorteiaCarta = false;
+              }
+            }else{
+              cartas2.push(carta);
+              umOudois = 2;
+              sorteiaCarta = false;
+            }
+
+          }else{
+            cartas1.push(carta);
+            umOudois = 1;
+            sorteiaCarta = false;
+          }
+        }else{
+          cartas1.push(carta);
+          umOudois = 1;
+          sorteiaCarta = false;
+        }
+      }
+
+      txt += '<td style="width: 150px; height: 200px"><div class="carta" id="carta'+carta+'_'+umOudois+'">';
+      txt += '<div class="frente" id="carta'+carta+'_'+umOudois+'_f"><img src="imgs/dog'+carta+'.jpg" alt="" /></div>';
+      txt += '<div class="tras" id="carta'+carta+'_'+umOudois+'_t" onclick="viraCarta('+carta+','+umOudois+')"><img src="imgs/fundo.jpg" alt="" /></div>';
+      txt += '</div></td>';
+
+      if (a == 4 || a == 9 || a == 14){
+        txt += '</tr><tr>';
+      }
+    }
+  
+    document.getElementById('container').innerHTML = txt;
+
+    function liberaTela(){
+        document.getElementById('trava').style.background = 'rgba(255, 255, 255, 0)';
+        document.getElementById('trava').style.display = 'none';
+        document.getElementById('trava').innerHTML = '';
+    }
+
+    setTimeout(liberaTela,1500);
+  </script>
+
+</html>

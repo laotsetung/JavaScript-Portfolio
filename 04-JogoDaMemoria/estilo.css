@@ -1,0 +1,33 @@
+body {
+    padding: 0; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    padding: 10px;
+    background-color: rgb(232, 196, 184);
+}
+.carta{
+    width: 150px;
+    height: 200px;
+    margin: 4px;
+    visibility: visible;
+    border: 2px solid black;
+}
+
+.tras, .frente {
+    position: absolute;
+}
+
+.trava {
+    position: absolute;
+    text-align: center;
+    background-color: lightgray;
+    width: 852px;
+    height: 880px;
+    display: block;
+    z-index: 1;
+}
