@@ -6,4 +6,6 @@
   App que simula rodadas de poker, de 6 a 10 jogadores, qualquer quantidade de jogadas!
   <li> <h3> Projeto 3 : Análise de Historico do PokerStar </h3> </li>
   App que lê o arquivo de HandHistory do Poker Star e apresenta o resultado de como foram as mãos que você recebeu naquele torneio!
+  <li> <h3> Projeto 4 : Caramelo's Memory - Jogo da Memória </h3> </li>
+    <a href="http://3.137.169.88:8080/jogoMemoria"> Caramelo's Memory </a> - Rodando no AWS Servidor.
   </ul>
