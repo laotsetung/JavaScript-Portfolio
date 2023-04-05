@@ -34,20 +34,19 @@
     var escolhe = 0;
 
     for (let a = 0; a <= 19; a++){
-      sorteiaCarta = true;
+      
+      tam = formaDois.length; //tamanho da array
+      escolhe = Math.floor(Math.random()*tam); //escolhe um elemento dentro do limite da array
 
-      tam = formaDois.length;
-      escolhe = Math.floor(Math.random()*tam);
-
-      carta = formaDois[escolhe];
-      formaDois.splice(escolhe,1);
-      if (formaDois.indexOf(carta) >= 0){
+      carta = formaDois[escolhe];  //associa a esse elemento escolhido
+      formaDois.splice(escolhe,1); //remove ele da array principal
+      if (formaDois.indexOf(carta) >= 0){ //verifica se é a primeira ou segunda carta 
         umOudois = 1;
       }else{
         umOudois = 2;
       }
-
-
+      
+      //monta matrix
       txt += '<td style="width: 150px; height: 200px"><div class="carta" id="carta'+carta+'_'+umOudois+'">';
       txt += '<div class="frente" id="carta'+carta+'_'+umOudois+'_f"><img src="imgs/dog'+carta+'.jpg" alt="" /></div>';
       txt += '<div class="tras" id="carta'+carta+'_'+umOudois+'_t" onclick="viraCarta('+carta+','+umOudois+')"><img src="imgs/fundo.jpg" alt="" /></div>';
