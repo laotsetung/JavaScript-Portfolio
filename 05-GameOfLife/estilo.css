@@ -1,0 +1,43 @@
+body {
+    padding: 0; 
+    margin: 0;
+    text-align: center;
+    background-color: #555555;
+  } 
+
+  p{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 7px;
+  }
+
+  button{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: #88ee88;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: #53a253;
+    font-weight: bold;
+  }
+
+  .rodape{
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  a {
+    color: orange;
+    transform: 0.5 all;
+  }
+
+  a:hover{
+    color: #06062b; 
+    font-size: 18px;
+  }
