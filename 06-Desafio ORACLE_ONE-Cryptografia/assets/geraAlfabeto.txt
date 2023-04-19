@@ -1,0 +1,28 @@
+/* Copie este código (bloco por bloco) e rode no console do navegador
+Ele gera uma Array alfabetoCodigo que contém uma versão embaralhada do alfabeto, que será usada como o código */
+
+
+var alfabeto = 'abcdefghijklmnopqrstuvwxyz';
+
+alfabeto
+
+var alfabetoAr = [];
+
+for(let a = 0; a<alfabeto.length;a++){
+    alfabetoAr.push(alfabeto.charAt(a));
+}
+
+alfabetoAr
+
+var alfabetoCodigo = [];
+
+let a = alfabetoAr.length;
+
+while (a > 0){
+    let x = Math.floor(Math.random()*alfabetoAr.length);
+    alfabetoCodigo.push(alfabetoAr[x]);
+    alfabetoAr.splice(x,1);
+    a--;
+}
+
+alfabetoCodigo 

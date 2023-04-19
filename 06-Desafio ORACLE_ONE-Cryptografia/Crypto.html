@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto</title>
+    <!-- <link rel="stylesheet" href="assets/reset.css"> -->
+    <link rel="stylesheet" href="assets/estilo.css">
+    
+</head>
+<body>
+    <header id="topo">
+        <div>
+            <h1> Crypto </h1>
+        </div>
+    </header>
+
+    <main>
+        <div class="caixa">
+            <div class="mainBloco"><br>
+                <div id="aviso" class="aviso"> </div>
+                <textarea name="mainText" id="mainText" cols="33" rows="13" onfocus="limpaTextArea(this);" onblur="saidaTextArea(this);" onkeydown="escrevendo(this)">Digite seu texto para cryptografar</textarea>
+                <br><br><br><button onclick="crypto()"><b>Cryptografar</b></button>
+                <button onclick="decrypto()"><b>Descryptografar</b></button>
+            </div>
+            <div class="mainBloco"> <h2>Método 1: Alura</h2>
+                <textarea class="textAlura" id="textAlura" cols="30" rows="13" disabled></textarea>
+                <br><br><br><button onclick="copyAlura(event);"><b>Copiar Cryptografia 1</b></button>
+                            <button onclick="decryptoA(document.getElementById('textAlura').value);"><b>Descryptografar 1</b></button>
+            </div>
+            <div class="mainBloco"> <h2>Método 2 </h2>
+                <textarea class="textLao" id="textLao" cols="30" rows="13" disabled></textarea>
+                <br><br><br><button onclick="copyLao();"><b>Copiar Cryptografia 2</b></button>
+                            <button onclick="decryptoL(document.getElementById('textLao').value);"><b>Descryptografar 2</b></button>
+            </div>
+            <h1><br><br><br><br></h1><div style="text-align: center;"><button onclick="limpar();"><b>Limpar</b></button></div>
+        </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <div >
+
+            
+            <div class="decryptDiv">
+                <button onclick="window.location='#topo'"><b>Voltar ao Topo</b></button>
+                <br><br><br>
+                <h2>Resultado Descryptografado</h2><br>
+                <textarea class="decrypt" id="decrypt" cols="33" rows="10" disabled></textarea>
+                <button onclick="document.getElementById('decrypt').value='';"><b>Limpar</b></button>
+            </div>        
+        </div>
+        <h1><br><br><br><br><br><br><br><br></h1>
+    
+    
+    </main>
+    
+</body>
+    <script src="assets/app.js"></script>
+</html>
