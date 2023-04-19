@@ -6,11 +6,21 @@
     <title>googleInterview</title>
     <style> body {padding: 0; margin: 0; text-align: center;} </style>
   </head>
+  <script>
+
+    function abrePagina(page){
+      let ifr = document.getElementById('ifr');
+      ifr.src = page;
+    }
+
+  </script>
   <body>
     <div>
+      <button onclick="abrePagina('https://github.com/laotsetung/JavaScript-Portfolio/blob/main/01-CamposHarmonicos/acorde.html')"> 01 - Campos Harmônicos</button>
+      <br><hr><br>
       <a href="https://github.com/laotsetung/JavaScript-Portfolio/blob/main/01-CamposHarmonicos/acorde.html"> 01 - Campos Harmônicos </a>
       <br><hr><br>
-      <iframe src="https://github.com/laotsetung/JavaScript-Portfolio/blob/main/01-CamposHarmonicos/acorde.html" frameborder="0"></iframe>
+      <iframe id="ifr" src="" frameborder="0"></iframe>
     </div>
   </body>
 </html>
