@@ -3,22 +3,298 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>googleInterview</title>
-    <style> body {padding: 0; margin: 0; text-align: center;} </style>
+    <title>LAO</title>
+    <style>
+     * {
+        padding: 0; 
+        margin: 0; 
+        
+    } 
+
+    header {
+        width: 100%;
+        position: fixed;
+        background-color: #555555;
+        margin: 0;
+        padding: 10px;
+        height: 50px;
+        z-index: 2;
+    }
+
+    .head{
+        position: relative;
+        top: 30%;
+    }
+
+    .head li {
+        display: inline;
+        padding: 20px;
+        font-size: 22px;
+    }
+    .head li a{
+        color: orange;
+        text-decoration: none;
+    }
+
+    .head li a:hover{
+        color: black;
+    }
+
+
+    main {
+        background-color: #999999;
+    }
+    .home {
+        width: 90%;
+        position: relative;
+        font-size: 22px;
+        left: 100px;
+    }
+    .home ul{
+        position: relative;
+        left: 50px;
+    }
+
+    .divisao{
+        height: 250px;
+        background: repeating-linear-gradient(
+            45deg,
+            #55755d,
+            #2b5435 20px,
+            #284439 20px,
+            #153a2b 20px
+        );
+        opacity: 75%;
+    }
+    .divisao2{
+        height: 250px;
+        background: repeating-linear-gradient(
+            45deg,
+            #55755d,
+            #2b5435 20px,
+            #284439 20px,
+            #153a2b 20px
+        );
+    }
+.jsPort{
+    height: 1000px;
+    padding-left: 100px;
+    padding-top: 50px;
+    background-color: #999999;
+    text-align: center;
+}
+
+.jsPort button {
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+.jsPort button:hover {
+    background-color: rgb(76, 182, 147);
+    
+}
+#ifrm{
+    width: 80%;
+    height: 768px;
+    
+}
+#url_codigo {
+    position: absolute;
+    left: 20px;
+}
+#url_codigo a{
+    text-decoration: none;
+    color: rgb(72, 32, 32);
+}
+#url_codigo a:hover{
+    text-decoration: overline;
+    color: rgb(72, 32, 32);
+}
+
+.PyPort{
+    padding-left: 100px;
+    padding-top: 50px;
+    background-color: #999999;
+}
+
+    .PyPort li {
+        /* display: block; */
+        padding: 10px;
+        font-size: 20px;
+    }
+    .PyPort li a{
+        color: rgb(52, 57, 190);
+        text-decoration: none;
+    }
+
+    .PyPort li a:hover{
+        color: black;
+        font-size: 21px;
+    }
+     
+
+    .contato{
+        text-align: center;
+    }
+    .contato li {
+        display: inline;
+        padding: 10px;
+        font-size: 20px;
+    }
+    .contato li a{
+        color: rgb(52, 57, 190);
+        text-decoration: none;
+    }
+
+    .contato li a:hover{
+        color: black;
+        font-size: 21px;
+    }
+     </style>
   </head>
   <script>
 
-    function abrePagina(page){
-      let ifr = document.getElementById('ifr');
+
+    function abreIframe(page){
       ifr.src = page;
+      let link = page.split('/')[0];
+      link = 'https://github.com/laotsetung/JavaScript-Portfolio/tree/main/' + link
+      url_c.innerHTML = "<h2 style='padding: 15px'><a href='"+link+"' target='_blank'> Código Fonte: </a></h2>";
+      window.location = '#PortfolioJS';
     }
 
   </script>
   <body>
-    <div>
-      <button onclick="abrePagina('https://laotsetung.github.io/JavaScript-Portfolio/01-CamposHarmonicos/acorde.html')"> 01 - Campos Harmônicos</button>
-      <br><hr><br>
-      <iframe id="ifr" src="" frameborder="0"></iframe>
-    </div>
+      <header>
+        <ul class="head">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#PortfolioJS">Portfolio de JavaScript</a></li>
+            <li><a href="#PortfolioPY">Portfolio de Python</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+
+      </header>
+
+      <main>
+
+        <div class="home" id="home">
+            <br><br><br><br><br><br>
+            <table>
+                <tr><td>
+            <h3>Olá eu sou o Lao.</h3><br><br>
+            <p>Nasci em 1987, trabalhei com informatica e como programador na decada de 2000.</p>
+            <p>No momento estou buscando alguma oportunidade para voltar a trabalhar como Programador Back End</p><br>
+            <p>Meus conhecimentos são : </p>
+            <ul>
+                <li>HTML e JavaScript</li>
+                <li>Python (Iniciante)</li>
+                <li>SQL</li>
+                <li>Linux</li>
+                <li>CSS Básico (Estrutural)</li>
+            </ul>
+            <br><p>Breve Histórico:</p><br>
+            <p>Depois de ficar afastado da programação por mais de 10 anos, periodo em que tentei fazer uma faculdade de Filosofia.</p>
+            <p>Tenho estudado diariamente para retornar ao desenvolvimento de softwares</p>
+            <p>No passado desenvolvi junto a empresas Sites/Aplicações em PHP com base de dados SQL</p>
+            <p>Desenvolvia toda a rotina de acessar, validar e manipular informações da base de dados, como também a sua criação.</p>
+            <p>No meu principal projeto organizava os atendimentos de um posto do SUS, com diversos médicos e muitos agendamentos por dia</p>
+            <p>Além da criação das funcionalidades da página em relação a essas ações no back end</p>
+            <br><br>
+            <p style="font-size: 16px; font-style: italic;">ps: Desconsiderem minha folha de estilo por favor... Repito: SOU PROGRAMADOR BACK END! (rs)</p>
+            <br>
+                </td>
+            <td style="text-align: center;"><img src="final_high_res_cortada.jpg" alt="Foto de Perfil" style="width: 350px; border-radius: 250px; margin-left:200px"></td></tr>
+            </table>
+            <br><br><br><br><br>
+        </div>
+      
+        <!-- PORTFOLIO JAVASCRIPT -->
+      <div class="divisao">     <div id="PortfolioJS" style="position: absolute; bottom: -150px;"></div></div>
+      <div class="jsPort" id="PortfolioJS2">
+        <h1>Portfolio JavaScript</h1>
+        
+            <button onclick="abreIframe('01-CamposHarmonicos/acorde.html');">01 - Campos Harmônicos</button>
+            <button onclick="abreIframe('02-PokerHandsSimulator/PokerHandsSimulator.html')">02 - Simulador de Mãos de Poker</button>
+            <button onclick="abreIframe('03-PokerAnaliseJogo/AnaliseJogos.html')">03 - Leitor de Histórico do PokerStar</button>
+            <button onclick="abreIframe('04-JogoDaMemoria/jogoMemoria.html')">04 - Jogo da Memória</button>
+            <button onclick="abreIframe('05-GameOfLife/GameOfLife.html')">05 - Game of Life </button><br>
+            <button onclick="abreIframe('06-Desafio ORACLE_ONE-Cryptografia/Crypto.html')" >06 Desafio ORACLE ONE #1 </button>
+            <br>
+
+        <div id="url_codigo"></div>
+    <iframe id="ifrm" src="" frameborder="0"></iframe>
+        <br><br><br><br><br>
+      </div>
+
+      <!-- FIM DO PORTFOLIO JAVASCRIPT-->
+
+      <div class="divisao"><div id="PortfolioPY" style="position: relative; bottom: -150px;"></div></div>
+
+    <!-- PORTFOLIO PYTHON -->
+      <div class="PyPort">
+        <h1> Python Portfolio </h1><br>
+        <ul>
+            <li>
+                <a href="https://github.com/laotsetung/Python-Portfolio/tree/main/01-cadeVoceIp" target="_blank">Busca Localização do IP</a>
+                <p>Aplicação Python que busca o endereço aproximado de um IP</p>
+                <p>Em alguns casos ela retorna o Pais de Origem do IP e a Latitude e Longitude, permitindo uma busca no google</p>
+                <p>Em outros casos já retorna diretamente o Estado, a Cidade e aproximação da Rua</p>
+            </li>
+            <li>
+                <a href="https://github.com/laotsetung/Python-Portfolio/tree/main/02-MercadoLivre-webScraping"  target="_blank">WebScrapping - Melhores Ofertas do Mercado Livre (GUI)</a>
+                <p>Aplicalção simples que faz um Web Scrapping na página de ofertas do Mercado Livre, trazendo as primeiras ofertas que aparecem no site</p>
+                <p>Oferecendo um Link que vai direto para o produto</p>
+            </li>
+            <li>
+                <a href="https://github.com/laotsetung/99-Python-Flask-ShoppingCart" target="_blank"> Alpha Centauri Shop - Carrinho de Compras</a>
+                <p>Aplicação Web de Carrinho de Compras com Beck End em Python, Flask e Jinja e Banco de Dados SQL</p>
+                <p>Na página principal já é apresentados todos os produtos que estão no banco de dados, com a funcionalidade de inclui-los no carrinho de compras</p>
+                <p>No fim da página temos o link para acessar a parte de ADMIN onde podemos:</p>
+                <ul style="margin-left: 50px">
+                    <li>Adicionar novos produtos</li>
+                    <li>Editar os produtos</li>
+                    <li>Remover os produtos</li>
+                </ul>
+            </li>
+            <li><h3>Python PANDAS</h3></li>
+            <ul>
+                <li>
+                    <a href="https://github.com/laotsetung/Python_Pandas_Portfolio/tree/main/01-Netflix-Data_Analysis">Analise de Dados do Netflix</a>
+                    <p>Com o download das informações de uso da conta do Netflix, fiz esta análise dos dados.</p>
+                    <p>Apresentando-os em gráficos.</p>
+                </li>
+            </ul>
+        </ul>
+        <h1><br><br><br></h1>
+      </div>
+
+    </main>
+
+    <div class="divisao2">   
+        <br><br><br><br><br>
+             <div class="contato">
+        <ul>
+            <li><a href="mailto:flavio.lao@gmail.com"><img src="icons/gmail-cone-icon.png" alt="Icone GMail" style="width: 50px;"></a></li>
+            <li><a href="https://www.linkedin.com/in/lao-flavio/"><img src="icons/linkedin.png" alt="icone linked in" style="width: 50px;"></a></li>
+            <li><a href="https://github.com/laotsetung/"><svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="50" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+                <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
+            
+            </svg></a></li>
+        </ul>
+                </div></div>
+
+    <footer>
+        <div id="contato"></div>
+    </footer>
   </body>
+  <script>
+          const ifr = document.getElementById('ifrm');
+      const url_c = document.getElementById('url_codigo')
+  </script>
 </html>
