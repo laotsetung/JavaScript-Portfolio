@@ -2,7 +2,8 @@
   <ul style="list-style-type:circle">
   <li> <h3> <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/01-CamposHarmonicos" target="_blank"> Projeto 1 : Campos Harmônicos (código)</a></h3> </li>
   App que gera os Campos Harmonicos da teoria musical no formato de Modo Gregos!<br>
-  <a href="https://laotsetung.github.io/JavaScript-Portfolio/02-PokerHandsSimulator/acorde.html" target="_blank"> Acessar Campos Harmônicos </a>
+  <a href="https://laotsetung.github.io/JavaScript-Portfolio/01-CamposHarmonicos/acorde.html" target="_blank"> Acessar Campos Harmônicos </a>
+           
   <hr>
   
   <li> <h3> <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/02-PokerHandsSimulator" target="_blank"> Projeto 2 : Poker Hands Simulator (código)</h3> </li>
