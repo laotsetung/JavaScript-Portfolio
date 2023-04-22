@@ -22,20 +22,23 @@
                 <div id="aviso" class="aviso"> </div>
                 <textarea name="mainText" id="mainText" cols="33" rows="13" onfocus="limpaTextArea(this);" onblur="saidaTextArea(this);" onkeydown="escrevendo(this)">Digite seu texto para cryptografar</textarea>
                 <br><br><br><button onclick="crypto()"><b>Cryptografar</b></button>
-                <button onclick="decrypto()"><b>Descryptografar</b></button>
+                &nbsp;&nbsp;&nbsp;&nbsp;<button onclick="decrypto()"><b>Descryptografar</b></button>
+                <br><br>                
             </div>
-            <div class="mainBloco"> <h2>Método 1: Alura</h2>
+            <div class="mainBloco" id="decrypt"> <h2>Resultado</h2>
                 <textarea class="textAlura" id="textAlura" cols="30" rows="13" disabled></textarea>
-                <br><br><br><button onclick="copyAlura(event);"><b>Copiar Cryptografia 1</b></button>
-                            <button onclick="decryptoA(document.getElementById('textAlura').value);"><b>Descryptografar 1</b></button>
+                <br><br><br><button onclick="copyAlura(event);"><b>Copiar</b></button>
+                <!-- &nbsp;&nbsp;&nbsp;&nbsp;<button onclick="decryptoA(document.getElementById('textAlura').value);"><b>Descryptografar</b></button> -->
             </div>
-            <div class="mainBloco"> <h2>Método 2 </h2>
+            <!-- <div class="mainBloco"> <h2>Método 2 </h2>
                 <textarea class="textLao" id="textLao" cols="30" rows="13" disabled></textarea>
-                <br><br><br><button onclick="copyLao();"><b>Copiar Cryptografia 2</b></button>
-                            <button onclick="decryptoL(document.getElementById('textLao').value);"><b>Descryptografar 2</b></button>
-            </div>
-            <h1><br><br><br><br></h1><div style="text-align: center;"><button onclick="limpar();"><b>Limpar</b></button></div>
+                <br><br><br><button onclick="copyLao();"><b>Copiar #2</b></button>
+                            <button onclick="decryptoL(document.getElementById('textLao').value);"><b>Descryptografar #2</b></button>
+            </div> -->
+            <h1><br><br></h1><div style="text-align: center;"><button onclick="limpar();"><b>Limpar</b></button></div>
+            <br>
         </div>
+        <!-- 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
         <div >
 
@@ -48,11 +51,12 @@
                 <button onclick="document.getElementById('decrypt').value='';"><b>Limpar</b></button>
             </div>        
         </div>
-        <h1><br><br><br><br><br><br><br><br></h1>
-    
+        <h1><br><br><br><br><br></h1>
+    -->
     
     </main>
     
 </body>
     <script src="assets/app.js"></script>
+    
 </html>
