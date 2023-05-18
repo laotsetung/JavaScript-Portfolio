@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>googleInterview</title>
+    <style> 
+    body {
+      padding: 0; 
+      margin: 0; 
+      text-align: center;
+      background-color: rgb(29, 99, 73);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      } 
+      p {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 60%;
+      }
+      span {
+        font-size: 25px;
+        font-weight: bold;
+      }
+      input, button {
+        padding: 5px;
+        font-size: 25px;
+        width: 75px;
+        border-radius: 25%;
+      }
+      button{
+        margin-left: 25px;
+        width: 150px;
+        background-color: orange;
+        cursor: pointer;
+      }
+      button:hover{
+        background-color: orangered;
+      }
+
+      .sobre{
+        width: 50%; 
+        margin-left: 25%;
+      }
+      .sobre p{
+        line-height: 110%;
+      }
+
+
+      </style>
+    <script src="p5.js"></script>
+    <script src="app.js"></script>
+  </head>
+  <body>
+    <h1 style="padding-bottom: 20px;">Remova as ilhas - (Google Interview Problem)</h1>
+    <p>"Dada uma matrix 2D composta de 0(Branco) e 1(Preto)</p>
+    <p>Remova todos os números "1" que não se conectam diretamente com a borda."</p>
+    <br>
+    <span>Dimensão da Array:</span> <input type="text" name="size" id="size" onchange="enviaSize()"> 
+    <button onclick="window.location.reload();">RELOAD</button>
+        
+    <br><br><br>
+    <div id="p5Canvas"></div>
+    <br><br><br>
+    <div style="width: 100%;text-align: left;">
+      <div class="sobre">
+        <h3>Sobre o código</h3>
+      <p>
+        No primeiro passo eu eu "corro" a matrix principal olhando suas bordas, quando encontro uma borda com número 1
+        "olho" então para os seus vizinhos, e aqueles vizinhos que também forem número 1, eu os guardo em uma nova Lista.</p>
+      <p>Após eu "corro" esta novaLista e para cada elemento dela, eu busco os vizinhos, e aqueles que forem número 1,
+        também são incluidos nessa mesma lista, e por consequência os vizinhos dessa nova "peça" também serão avaliados neste mesmo loop.<br>
+      </p>
+      <a href="https://github.com/laotsetung/JavaScript-Portfolio/07-googleInterview" style="font-size: 25px;">GitHub</a>
+      <br><br><br>
+      </div>
+    </div>
+  </body>
+  <script>
+
+    function enviaSize(){
+      let siz = document.getElementById('size').value;
+      if(siz == "" && siz == undefined && siz == NaN){
+        document.getElementById('size').value = 10;
+      }
+
+      if(siz < 5){
+        document.getElementById('size').value = 5;
+      }else if(siz>25){
+        document.getElementById('size').value = 25;
+      }
+
+      url = "googleInterview.html?size="+document.getElementById('size').value;
+      window.location.href = url;
+      
+    }
+
+    if(window.location.search){
+      let siz = document.getElementById('size').value;
+      let queryString = window.location.search;
+      if(queryString == "" || queryString == undefined){
+        document.getElementById('size').value = 10;
+      }else{
+        if(queryString.indexOf('size')>-1){
+          qSet = queryString.split('=');
+          if(qSet[1] != NaN){
+            document.getElementById('size').value = qSet[1];
+          }
+        }
+      }
+    }else{
+      document.getElementById('size').value = 10;
+    }
+  </script>
+</html>
