@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wave Collapse Function</title>
+    <style> 
+    body {
+      padding: 0; 
+      margin: 0; 
+      background-color: black; 
+      text-align: center; 
+      color: white
+    } 
+    button, input {
+      margin: 5px;
+      padding: 15px;
+      font-size: 18px;
+      border-radius: 25%;
+    }
+    button {
+      cursor: pointer;
+    }
+    button:hover{
+      background-color: #77aa77;
+    }
+
+    .erroMae{
+      width: 100%;
+      text-align: center;
+      position: absolute;
+      top: 250px;
+    }
+
+    .error {
+      font-size: 24px;
+      visibility: hidden;
+      background-color: #aa7777;
+      width: 42%;
+      margin: auto;
+      border-radius: 20%;
+      padding: 10px;
+      color: black;
+      font-weight: bold;
+      display: none;
+    }
+
+
+    </style>
+    <script src="p5.js"></script>
+    <script src="peca.js"></script>
+    <script src="celula.js"></script>
+    <script src="loadTileSet.js"></script>
+    <script src="app.js"></script>
+    <script>
+      //const size = ;
+    function abreSet(set){
+      let s = document.getElementById('size').value;
+      url = "08-WaveCollapseFunction.html?tileset="+set+"&size="+s;
+      window.location.href = url;
+    }
+
+
+    </script>
+  </head>
+  <body>
+    <span style="font-size: 42px; color: green">Wave Collapse Function <a href="https://en.wikipedia.org/wiki/Wave_function_collapse">(wiki)</a></span><div id="setName" style="font-size: 24px; color: orange"></div>
+    
+    <label for="size" style="font-size: 22px;"> Tamanho da array: </label><input type="text" name="size" id="size" value="10" onblur="valorSize();" size="5">
+    <span> <a href="https://laotsetung.github.io/JavaScript-Portfolio/">PortFolio</a></span>
+    <span><a href="https://github.com/laotsetung/JavaScript-Portfolio">GitHub</a></span>
+    <br>
+    <span style="font-size: 22px;">Opções de TileSet:</span>
+    <button onclick="abreSet('set01');">SET01</button>
+    <button onclick="abreSet('set02');">SET02</button>
+    <button onclick="abreSet('set03');">SET03</button>
+    <button onclick="abreSet('set04');">SET04</button>
+    <button onclick="abreSet('set05');">SET05</button>
+    <button onclick="window.location.reload()"> RELOAD </button>
+    <br><br>
+    <!-- <div id="divResult"></div> -->
+    <div class="erroMae">
+    <div id="divErro" class="error">ERRO: Padrão com célula sem conexões!! (Entropia 0) 
+      <br>GERANDO NOVO PADRÃO!
+    </div>
+  </div>
+  <br>
+
+    
+  </body>
+  <script>
+    
+    function valorSize(){
+      
+      if(document.getElementById('size').value == "" || document.getElementById('size').value == 0){
+        document.getElementById('size').value=10;
+      }
+    }
+
+    if(window.location.search){
+      let queryString = window.location.search;
+      if(queryString == "" || queryString == undefined){
+        document.getElementById('size').value=10;
+      }else{
+        qSet = queryString.split('&');
+        if(qSet[0]){
+          qSet = qSet[0].split('=');
+          if(qSet[1]){
+            document.getElementById('setName').innerText="(Tile Set = " + qSet[1] + ")";
+          }
+        }
+        queryString = queryString.replace("?","");
+        qArr = queryString.split('&');
+        if(qArr[1]){
+          let s = qArr[1].split('=');
+          if(!isNaN(s[1])){
+            document.getElementById('size').value=s[1];
+          }
+        }
+      }
+    }
+  </script>
+</html>
