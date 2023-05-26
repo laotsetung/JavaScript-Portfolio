@@ -38,4 +38,8 @@
   O objetivo é pegar uma matrix 2D com números 0 e 1, e excluir dela todos os números 1 que não estão conectados à borda da matrix.
     <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/07-googleInterview" target="_blank"> Projeto 7 : Remova as Ilhas (Google Interview) - (Acessar código)</a>
   <hr>
+    <li><h3><a href="https://laotsetung.github.io/JavaScript-Portfolio/08-WaveCollapseFunction/08-WaveCollapseFunction.html" target="_blank">Projeto 8: Wave Collapse Function (Acessar Aplicação)</h3>
+  Função de Colapso de Onda, usada para criar mapas 2D GENERATIVOS
+    <a href="https://github.com/laotsetung/JavaScript-Portfolio/tree/main/08-WaveCollapseFunction" target="_blank"> Projeto 8 : Wave Collapse Function - (Acessar código)</a>
+  <hr>
   </ul>
