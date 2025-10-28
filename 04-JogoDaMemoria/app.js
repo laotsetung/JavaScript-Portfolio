@@ -18,6 +18,8 @@ function verificaWin(){
     txt += '<br><button onclick="window.location.reload()">JOGAR DE NOVO</button>'
     t.innerHTML = txt;
     t.display = "block";
+    const audio = new Audio('cachorrinho_fiadaputa_audio.wav');
+    audio.play();
     //document.getElementById('container').style.display = 'none';
   }
 }
